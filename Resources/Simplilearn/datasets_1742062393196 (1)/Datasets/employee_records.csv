@@ -1,0 +1,21 @@
+Employee_ID,Name,Age,Department,Salary,Experience_Years,Full_Time,Joining_Date,Performance_Rating
+1001,Alice Johnson,29,IT,70000,5,True,2010-01-01,3
+1002,Bob Smith,35,HR,55000,7,True,2011-01-01,4
+1003,Charlie Brown,42,Finance,80000,15,True,2012-01-01,5
+1004,David Wilson,30,IT,72000,6,False,2012-12-31,3
+1005,Eva Adams,28,Marketing,50000,3,True,2013-12-31,2
+1006,Frank White,50,Finance,85000,20,True,2014-12-31,5
+1007,Grace Hall,26,HR,53000,2,False,2015-12-31,2
+1008,Henry Lewis,40,IT,76000,12,True,2016-12-30,4
+1009,Ivy Scott,32,Marketing,51000,4,False,2017-12-30,3
+1010,Jack Carter,38,Finance,83000,18,True,2018-12-30,5
+1011,Karen Roberts,45,HR,54000,5,True,2019-12-30,3
+1012,Leo King,27,IT,71000,9,False,2020-12-29,4
+1013,Mona Lopez,41,Marketing,52000,3,True,2021-12-29,2
+1014,Nathan Green,34,Finance,82000,11,False,2022-12-29,4
+1015,Olivia Hill,36,HR,56000,6,True,2023-12-29,3
+1016,Peter Young,31,IT,73000,8,True,2024-12-28,5
+1017,Quincy Baker,33,Marketing,49000,2,False,2025-12-28,2
+1018,Rachel Allen,39,Finance,81000,14,True,2026-12-28,4
+1019,Steve Martin,48,HR,57000,10,False,2027-12-28,3
+1020,Tina Turner,29,IT,75000,7,True,2028-12-27,4

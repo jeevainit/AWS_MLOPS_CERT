@@ -1,0 +1,1001 @@
+transaction_id,date,product,region,payment_method,customer_type,quantity,category,unit_price,total_price,discount_pct,final_price,salesperson_id,satisfaction_rating,month,quarter
+473,2023-01-01,Tablet,North,PayPal,Corporate,3,Electronics,515.94,1547.82,15,1315.65,2,,1,1
+961,2023-01-01,Laptop,Central,Bank Transfer,Individual,2,Electronics,1259.97,2519.94,10,2267.95,8,1.0,1,1
+169,2023-01-02,Headphones,West,Debit Card,Corporate,3,Accessories,113.92,341.76,0,341.76,4,1.0,1,1
+978,2023-01-02,Printer,North,Cash,Educational,4,Peripherals,239.16,956.64,15,813.14,7,1.0,1,1
+91,2023-01-02,Printer,North,Bank Transfer,Corporate,5,Peripherals,242.02,1210.1,0,1210.1,9,4.0,1,1
+418,2023-01-02,Smartphone,Central,Debit Card,Educational,3,Electronics,756.17,2268.51,15,1928.23,8,2.0,1,1
+913,2023-01-02,Keyboard,West,Credit Card,Educational,5,Accessories,81.5,407.5,0,407.5,3,,1,1
+480,2023-01-02,Monitor,East,Debit Card,Corporate,2,Electronics,295.65,591.3,20,473.04,7,1.0,1,1
+279,2023-01-02,Laptop,East,Cash,Corporate,3,Electronics,1118.69,3356.07,15,2852.66,4,2.0,1,1
+560,2023-01-03,Mouse,South,Cash,Corporate,2,Accessories,51.76,103.52,20,82.82,3,3.0,1,1
+19,2023-01-03,Printer,East,PayPal,Corporate,5,Peripherals,245.34,1226.7,5,1165.36,3,4.0,1,1
+286,2023-01-04,Tablet,West,Cash,Corporate,4,Electronics,461.64,1846.56,15,1569.58,8,,1,1
+466,2023-01-04,Headphones,South,PayPal,Corporate,5,Accessories,114.5,572.5,15,486.62,8,1.0,1,1
+152,2023-01-04,Tablet,North,Debit Card,Educational,3,Electronics,457.89,1373.67,20,1098.94,4,2.0,1,1
+182,2023-01-05,Headphones,West,Cash,Individual,4,Accessories,117.87,471.48,20,377.18,6,,1,1
+489,2023-01-05,Laptop,Central,PayPal,Educational,1,Electronics,1267.08,1267.08,20,1013.66,5,1.0,1,1
+703,2023-01-05,Laptop,South,Cash,Corporate,3,Electronics,1275.29,3825.87,0,3825.87,1,5.0,1,1
+724,2023-01-06,Laptop,South,Bank Transfer,Individual,2,Electronics,1272.72,2545.44,20,2036.35,5,2.0,1,1
+54,2023-01-06,Monitor,North,PayPal,Corporate,1,Electronics,280.51,280.51,15,238.43,10,,1,1
+37,2023-01-06,Monitor,East,PayPal,Corporate,2,Electronics,281.12,562.24,20,449.79,9,1.0,1,1
+970,2023-01-06,Tablet,East,Cash,Educational,5,Electronics,508.8,2544.0,0,2544.0,6,,1,1
+457,2023-01-07,Mouse,Central,Bank Transfer,Educational,1,Accessories,51.72,51.72,10,46.55,10,1.0,1,1
+157,2023-01-07,Headphones,East,Debit Card,Corporate,5,Accessories,130.45,652.25,0,652.25,2,1.0,1,1
+696,2023-01-07,Monitor,North,Credit Card,Individual,4,Electronics,323.0,1292.0,20,1033.6,4,2.0,1,1
+981,2023-01-09,Monitor,North,Cash,Educational,4,Electronics,270.83,1083.32,10,974.99,2,2.0,1,1
+733,2023-01-09,Laptop,North,PayPal,Individual,3,Electronics,1183.87,3551.61,5,3374.03,1,,1,1
+330,2023-01-10,Printer,Central,Bank Transfer,Educational,5,Peripherals,266.22,1331.1,0,1331.1,8,1.0,1,1
+611,2023-01-10,Keyboard,North,Debit Card,Educational,3,Accessories,81.32,243.96,0,243.96,5,4.0,1,1
+917,2023-01-10,Smartphone,Central,Cash,Corporate,2,Electronics,808.56,1617.12,5,1536.26,7,4.0,1,1
+627,2023-01-10,Keyboard,Central,Debit Card,Individual,3,Accessories,80.0,240.0,0,240.0,7,4.0,1,1
+222,2023-01-10,Tablet,West,Bank Transfer,Individual,5,Electronics,496.4,2482.0,15,2109.7,9,2.0,1,1
+444,2023-01-11,Printer,Central,Credit Card,Corporate,4,Peripherals,227.83,911.32,5,865.75,9,2.0,1,1
+380,2023-01-11,Laptop,North,Debit Card,Individual,2,Electronics,1083.98,2167.96,15,1842.77,3,3.0,1,1
+306,2023-01-11,Keyboard,North,Debit Card,Corporate,4,Accessories,74.91,299.64,5,284.66,6,4.0,1,1
+645,2023-01-11,Printer,South,PayPal,Corporate,1,Peripherals,230.27,230.27,0,230.27,10,5.0,1,1
+568,2023-01-11,Printer,West,PayPal,Individual,2,Peripherals,256.69,513.38,0,513.38,6,,1,1
+562,2023-01-12,Tablet,North,Cash,Corporate,1,Electronics,544.59,544.59,20,435.67,2,1.0,1,1
+200,2023-01-12,Tablet,North,Debit Card,Individual,5,Electronics,479.99,2399.95,20,1919.96,3,3.0,1,1
+239,2023-01-13,Tablet,North,PayPal,Individual,3,Electronics,475.97,1427.91,10,1285.12,9,1.0,1,1
+249,2023-01-13,Laptop,East,Bank Transfer,Educational,2,Electronics,1140.69,2281.38,0,2281.38,6,4.0,1,1
+763,2023-01-13,Keyboard,South,Debit Card,Educational,4,Accessories,73.38,293.52,0,293.52,5,4.0,1,1
+95,2023-01-13,Mouse,East,Cash,Educational,1,Accessories,50.1,50.1,20,40.08,10,4.0,1,1
+934,2023-01-14,Laptop,South,Credit Card,Individual,1,Electronics,1180.58,1180.58,0,1180.58,5,,1,1
+853,2023-01-14,Keyboard,South,PayPal,Educational,5,Accessories,77.37,386.85,0,386.85,10,1.0,1,1
+303,2023-01-14,Tablet,North,PayPal,Corporate,3,Electronics,515.82,1547.46,0,1547.46,9,4.0,1,1
+357,2023-01-14,Smartphone,South,Bank Transfer,Educational,1,Electronics,845.33,845.33,20,676.26,2,1.0,1,1
+757,2023-01-14,Smartphone,South,PayPal,Educational,1,Electronics,827.56,827.56,10,744.8,2,2.0,1,1
+674,2023-01-14,Mouse,North,Credit Card,Individual,2,Accessories,48.31,96.62,0,96.62,5,4.0,1,1
+501,2023-01-14,Headphones,East,Bank Transfer,Individual,1,Accessories,111.02,111.02,15,94.37,5,1.0,1,1
+311,2023-01-14,Printer,East,Debit Card,Corporate,1,Peripherals,233.41,233.41,20,186.73,1,,1,1
+282,2023-01-15,Monitor,Central,Bank Transfer,Corporate,2,Electronics,303.73,607.46,20,485.97,6,4.0,1,1
+741,2023-01-15,Headphones,Central,PayPal,Educational,2,Accessories,119.44,238.88,15,203.05,10,2.0,1,1
+240,2023-01-15,Printer,West,Credit Card,Educational,5,Peripherals,273.49,1367.45,5,1299.08,6,4.0,1,1
+455,2023-01-15,Keyboard,West,Credit Card,Individual,3,Accessories,78.58,235.74,0,235.74,8,2.0,1,1
+930,2023-01-15,Laptop,East,Bank Transfer,Individual,5,Electronics,1226.43,6132.15,0,6132.15,7,,1,1
+313,2023-01-15,Monitor,South,PayPal,Educational,3,Electronics,303.42,910.26,0,910.26,10,5.0,1,1
+575,2023-01-15,Headphones,South,Bank Transfer,Corporate,3,Accessories,116.23,348.69,10,313.82,6,1.0,1,1
+220,2023-01-16,Headphones,South,Credit Card,Individual,3,Accessories,110.51,331.53,0,331.53,6,2.0,1,1
+942,2023-01-17,Keyboard,East,Bank Transfer,Individual,5,Accessories,72.38,361.9,5,343.8,1,,1,1
+50,2023-01-17,Mouse,South,PayPal,Individual,5,Accessories,45.87,229.35,0,229.35,2,1.0,1,1
+751,2023-01-18,Printer,Central,PayPal,Corporate,4,Peripherals,261.1,1044.4,0,1044.4,4,,1,1
+260,2023-01-18,Tablet,West,Debit Card,Individual,1,Electronics,458.47,458.47,15,389.7,7,3.0,1,1
+566,2023-01-18,Smartphone,South,Bank Transfer,Individual,2,Electronics,754.86,1509.72,15,1283.26,2,1.0,1,1
+726,2023-01-18,Keyboard,Central,Debit Card,Individual,5,Accessories,73.27,366.35,10,329.72,9,2.0,1,1
+446,2023-01-18,Tablet,South,Cash,Individual,5,Electronics,489.19,2445.95,0,2445.95,5,,1,1
+817,2023-01-18,Laptop,West,Cash,Educational,5,Electronics,1217.73,6088.65,0,6088.65,2,2.0,1,1
+405,2023-01-18,Printer,South,Cash,Individual,4,Peripherals,273.69,1094.76,0,1094.76,6,1.0,1,1
+371,2023-01-19,Monitor,Central,Bank Transfer,Individual,4,Electronics,295.03,1180.12,20,944.1,2,2.0,1,1
+801,2023-01-20,Laptop,West,Cash,Individual,5,Electronics,1099.23,5496.15,20,4396.92,10,3.0,1,1
+508,2023-01-20,Tablet,Central,PayPal,Educational,5,Electronics,510.32,2551.6,10,2296.44,6,3.0,1,1
+22,2023-01-20,Keyboard,North,Debit Card,Corporate,3,Accessories,84.2,252.6,20,202.08,6,,1,1
+235,2023-01-21,Monitor,South,Bank Transfer,Individual,1,Electronics,287.78,287.78,10,259.0,3,2.0,1,1
+879,2023-01-21,Keyboard,South,Credit Card,Individual,3,Accessories,78.55,235.65,0,235.65,6,3.0,1,1
+973,2023-01-22,Laptop,North,Debit Card,Corporate,4,Electronics,1099.58,4398.32,0,4398.32,10,4.0,1,1
+382,2023-01-23,Mouse,North,Credit Card,Corporate,3,Accessories,51.02,153.06,15,130.1,6,3.0,1,1
+191,2023-01-23,Headphones,North,Credit Card,Educational,5,Accessories,112.43,562.15,0,562.15,1,2.0,1,1
+1000,2023-01-23,Tablet,South,Cash,Individual,1,Electronics,539.74,539.74,10,485.77,8,2.0,1,1
+76,2023-01-23,Smartphone,North,Bank Transfer,Corporate,4,Electronics,865.35,3461.4,15,2942.19,8,,1,1
+377,2023-01-23,Monitor,North,Bank Transfer,Corporate,3,Electronics,275.05,825.15,5,783.89,2,3.0,1,1
+491,2023-01-24,Printer,Central,PayPal,Corporate,3,Peripherals,265.92,797.76,0,797.76,4,4.0,1,1
+20,2023-01-24,Tablet,Central,Cash,Corporate,4,Electronics,482.82,1931.28,20,1545.02,4,,1,1
+115,2023-01-24,Headphones,North,Bank Transfer,Corporate,4,Accessories,126.02,504.08,15,428.47,1,,1,1
+657,2023-01-25,Headphones,South,Cash,Individual,3,Accessories,129.55,388.65,0,388.65,10,1.0,1,1
+411,2023-01-26,Tablet,East,PayPal,Individual,2,Electronics,487.47,974.94,0,974.94,9,5.0,1,1
+474,2023-01-26,Monitor,Central,Cash,Individual,5,Electronics,304.67,1523.35,10,1371.02,2,3.0,1,1
+338,2023-01-28,Tablet,Central,Bank Transfer,Individual,3,Electronics,475.12,1425.36,0,1425.36,9,3.0,1,1
+761,2023-01-28,Monitor,South,PayPal,Corporate,4,Electronics,271.32,1085.28,15,922.49,6,2.0,1,1
+998,2023-01-28,Monitor,South,Cash,Corporate,1,Electronics,272.95,272.95,0,272.95,3,3.0,1,1
+83,2023-01-29,Keyboard,South,PayPal,Individual,2,Accessories,81.55,163.1,20,130.48,3,4.0,1,1
+532,2023-01-30,Printer,South,PayPal,Educational,3,Peripherals,229.08,687.24,15,584.15,9,5.0,1,1
+707,2023-01-30,Monitor,North,PayPal,Corporate,4,Electronics,279.09,1116.36,0,1116.36,5,4.0,1,1
+922,2023-01-30,Headphones,Central,Credit Card,Corporate,3,Accessories,116.52,349.56,20,279.65,10,1.0,1,1
+791,2023-01-30,Mouse,East,Bank Transfer,Individual,5,Accessories,47.2,236.0,10,212.4,7,1.0,1,1
+24,2023-01-31,Printer,South,PayPal,Educational,1,Peripherals,234.82,234.82,20,187.86,4,1.0,1,1
+248,2023-01-31,Laptop,Central,Cash,Corporate,1,Electronics,1227.35,1227.35,0,1227.35,7,,1,1
+815,2023-01-31,Monitor,North,PayPal,Educational,4,Electronics,273.72,1094.88,20,875.9,4,5.0,1,1
+261,2023-02-01,Laptop,North,Credit Card,Educational,5,Electronics,1192.01,5960.05,0,5960.05,6,,2,1
+953,2023-02-02,Keyboard,North,PayPal,Individual,2,Accessories,75.14,150.28,0,150.28,1,2.0,2,1
+771,2023-02-02,Keyboard,North,Debit Card,Individual,2,Accessories,81.59,163.18,20,130.54,3,4.0,2,1
+366,2023-02-04,Headphones,East,PayPal,Corporate,4,Accessories,112.35,449.4,0,449.4,7,3.0,2,1
+901,2023-02-04,Keyboard,Central,Credit Card,Educational,2,Accessories,74.13,148.26,5,140.85,4,5.0,2,1
+882,2023-02-04,Mouse,West,Credit Card,Corporate,3,Accessories,52.99,158.97,0,158.97,3,4.0,2,1
+545,2023-02-04,Laptop,Central,Credit Card,Educational,5,Electronics,1215.34,6076.7,5,5772.86,5,2.0,2,1
+274,2023-02-04,Printer,East,Bank Transfer,Educational,4,Peripherals,259.19,1036.76,0,1036.76,5,4.0,2,1
+322,2023-02-04,Keyboard,North,Cash,Individual,4,Accessories,82.17,328.68,20,262.94,6,1.0,2,1
+788,2023-02-05,Printer,North,Debit Card,Individual,4,Peripherals,272.9,1091.6,0,1091.6,5,5.0,2,1
+56,2023-02-06,Monitor,East,Bank Transfer,Corporate,3,Electronics,283.23,849.69,10,764.72,4,5.0,2,1
+866,2023-02-06,Laptop,West,Bank Transfer,Corporate,5,Electronics,1211.26,6056.3,5,5753.48,9,5.0,2,1
+967,2023-02-06,Keyboard,Central,Debit Card,Corporate,1,Accessories,75.95,75.95,15,64.56,7,3.0,2,1
+705,2023-02-06,Keyboard,West,Bank Transfer,Educational,4,Accessories,82.38,329.52,5,313.04,3,2.0,2,1
+395,2023-02-07,Tablet,West,PayPal,Corporate,2,Electronics,507.39,1014.78,20,811.82,1,,2,1
+10,2023-02-07,Smartphone,East,Credit Card,Corporate,2,Electronics,779.43,1558.86,5,1480.92,10,4.0,2,1
+988,2023-02-07,Monitor,North,Debit Card,Individual,3,Electronics,323.17,969.51,5,921.03,9,2.0,2,1
+553,2023-02-07,Keyboard,North,Cash,Corporate,4,Accessories,74.29,297.16,0,297.16,3,,2,1
+429,2023-02-07,Laptop,West,Credit Card,Individual,1,Electronics,1198.21,1198.21,15,1018.48,9,,2,1
+103,2023-02-08,Smartphone,North,Cash,Individual,3,Electronics,724.0,2172.0,20,1737.6,1,,2,1
+502,2023-02-08,Keyboard,South,Credit Card,Corporate,5,Accessories,87.67,438.35,10,394.52,3,2.0,2,1
+385,2023-02-08,Keyboard,South,Cash,Individual,4,Accessories,72.38,289.52,15,246.09,3,5.0,2,1
+841,2023-02-08,Headphones,South,Cash,Educational,3,Accessories,130.78,392.34,0,392.34,5,3.0,2,1
+509,2023-02-08,Printer,North,Credit Card,Corporate,2,Peripherals,259.13,518.26,0,518.26,6,2.0,2,1
+664,2023-02-09,Mouse,East,Bank Transfer,Individual,5,Accessories,46.9,234.5,15,199.32,10,1.0,2,1
+281,2023-02-09,Monitor,West,PayPal,Individual,3,Electronics,328.27,984.81,0,984.81,4,,2,1
+543,2023-02-10,Tablet,South,Credit Card,Individual,2,Electronics,539.04,1078.08,0,1078.08,10,2.0,2,1
+471,2023-02-10,Keyboard,East,Debit Card,Individual,3,Accessories,87.64,262.92,0,262.92,4,,2,1
+784,2023-02-10,Monitor,South,Cash,Corporate,3,Electronics,307.89,923.67,0,923.67,2,4.0,2,1
+106,2023-02-10,Smartphone,Central,Cash,Individual,5,Electronics,727.94,3639.7,15,3093.74,10,2.0,2,1
+795,2023-02-10,Laptop,Central,Cash,Individual,4,Electronics,1094.3,4377.2,20,3501.76,1,2.0,2,1
+392,2023-02-11,Tablet,Central,Bank Transfer,Individual,3,Electronics,491.96,1475.88,20,1180.7,10,3.0,2,1
+698,2023-02-11,Smartphone,Central,PayPal,Individual,3,Electronics,781.96,2345.88,5,2228.59,1,5.0,2,1
+986,2023-02-12,Smartphone,South,Bank Transfer,Educational,5,Electronics,723.22,3616.1,0,3616.1,5,,2,1
+498,2023-02-12,Monitor,North,Credit Card,Individual,1,Electronics,285.18,285.18,20,228.14,6,3.0,2,1
+845,2023-02-12,Keyboard,Central,Bank Transfer,Educational,5,Accessories,73.23,366.15,5,347.84,10,4.0,2,1
+612,2023-02-12,Smartphone,East,Bank Transfer,Individual,3,Electronics,850.0,2550.0,0,2550.0,8,1.0,2,1
+695,2023-02-12,Smartphone,Central,Debit Card,Individual,5,Electronics,738.42,3692.1,5,3507.5,8,5.0,2,1
+228,2023-02-13,Mouse,South,Cash,Individual,3,Accessories,52.39,157.17,0,157.17,9,1.0,2,1
+716,2023-02-14,Printer,North,Bank Transfer,Educational,1,Peripherals,261.72,261.72,5,248.63,7,4.0,2,1
+308,2023-02-14,Smartphone,Central,Credit Card,Individual,4,Electronics,852.37,3409.48,15,2898.06,4,1.0,2,1
+593,2023-02-14,Keyboard,East,PayPal,Educational,2,Accessories,87.32,174.64,0,174.64,5,4.0,2,1
+799,2023-02-15,Laptop,West,Cash,Educational,5,Electronics,1134.43,5672.15,15,4821.33,1,5.0,2,1
+390,2023-02-15,Laptop,Central,Bank Transfer,Corporate,3,Electronics,1288.42,3865.26,0,3865.26,2,3.0,2,1
+71,2023-02-16,Smartphone,North,Credit Card,Educational,1,Electronics,867.32,867.32,0,867.32,3,5.0,2,1
+336,2023-02-16,Printer,Central,Debit Card,Corporate,2,Peripherals,243.95,487.9,0,487.9,7,2.0,2,1
+909,2023-02-17,Headphones,East,Credit Card,Corporate,3,Accessories,124.06,372.18,0,372.18,3,1.0,2,1
+822,2023-02-17,Monitor,Central,Bank Transfer,Individual,5,Electronics,272.92,1364.6,15,1159.91,3,,2,1
+765,2023-02-17,Keyboard,North,Bank Transfer,Corporate,1,Accessories,76.49,76.49,0,76.49,7,,2,1
+542,2023-02-18,Smartphone,North,Bank Transfer,Educational,5,Electronics,728.07,3640.35,20,2912.28,6,2.0,2,1
+715,2023-02-20,Printer,North,Debit Card,Corporate,1,Peripherals,233.13,233.13,0,233.13,2,,2,1
+857,2023-02-20,Tablet,East,PayPal,Corporate,2,Electronics,509.94,1019.88,15,866.9,9,4.0,2,1
+217,2023-02-20,Monitor,East,Debit Card,Educational,3,Electronics,270.65,811.95,15,690.16,7,3.0,2,1
+65,2023-02-20,Headphones,South,Cash,Individual,1,Accessories,126.01,126.01,0,126.01,10,3.0,2,1
+714,2023-02-20,Monitor,Central,Credit Card,Educational,2,Electronics,293.5,587.0,15,498.95,10,3.0,2,1
+625,2023-02-21,Keyboard,East,Debit Card,Individual,2,Accessories,84.06,168.12,10,151.31,5,,2,1
+858,2023-02-21,Tablet,South,Bank Transfer,Educational,5,Electronics,522.87,2614.35,0,2614.35,3,1.0,2,1
+141,2023-02-21,Printer,South,Bank Transfer,Educational,1,Peripherals,261.95,261.95,5,248.85,2,,2,1
+528,2023-02-21,Smartphone,North,Bank Transfer,Corporate,3,Electronics,868.62,2605.86,0,2605.86,2,3.0,2,1
+132,2023-02-21,Keyboard,West,PayPal,Educational,3,Accessories,82.69,248.07,15,210.86,9,3.0,2,1
+232,2023-02-22,Monitor,Central,PayPal,Individual,3,Electronics,276.2,828.6,15,704.31,3,3.0,2,1
+654,2023-02-22,Keyboard,South,Debit Card,Individual,3,Accessories,76.04,228.12,20,182.5,5,3.0,2,1
+649,2023-02-23,Printer,Central,PayPal,Corporate,1,Peripherals,256.89,256.89,0,256.89,9,4.0,2,1
+98,2023-02-23,Monitor,Central,Debit Card,Educational,3,Electronics,272.09,816.27,0,816.27,2,3.0,2,1
+318,2023-02-23,Laptop,East,Debit Card,Individual,4,Electronics,1132.91,4531.64,10,4078.48,7,2.0,2,1
+113,2023-02-24,Printer,East,Debit Card,Individual,2,Peripherals,265.07,530.14,20,424.11,6,5.0,2,1
+294,2023-02-24,Smartphone,West,PayPal,Educational,5,Electronics,853.38,4266.9,5,4053.55,9,5.0,2,1
+449,2023-02-25,Headphones,South,Bank Transfer,Educational,4,Accessories,123.4,493.6,5,468.92,1,3.0,2,1
+400,2023-02-25,Laptop,East,Cash,Corporate,1,Electronics,1268.97,1268.97,20,1015.18,10,2.0,2,1
+241,2023-02-25,Smartphone,North,Credit Card,Individual,5,Electronics,789.0,3945.0,10,3550.5,7,4.0,2,1
+424,2023-02-26,Tablet,West,Debit Card,Individual,1,Electronics,537.07,537.07,10,483.36,1,3.0,2,1
+353,2023-02-26,Laptop,Central,Cash,Educational,1,Electronics,1241.06,1241.06,0,1241.06,2,,2,1
+697,2023-02-26,Headphones,Central,Credit Card,Corporate,5,Accessories,117.96,589.8,0,589.8,8,1.0,2,1
+856,2023-02-27,Keyboard,East,Credit Card,Individual,2,Accessories,87.31,174.62,15,148.43,4,,2,1
+21,2023-02-28,Mouse,Central,Cash,Corporate,5,Accessories,49.54,247.7,20,198.16,5,,2,1
+813,2023-02-28,Laptop,Central,PayPal,Educational,3,Electronics,1114.88,3344.64,0,3344.64,8,,2,1
+766,2023-03-01,Tablet,East,Credit Card,Corporate,2,Electronics,463.22,926.44,10,833.8,7,4.0,3,1
+849,2023-03-01,Headphones,East,Debit Card,Individual,3,Accessories,117.86,353.58,10,318.22,3,4.0,3,1
+877,2023-03-02,Smartphone,East,Debit Card,Educational,1,Electronics,755.95,755.95,15,642.56,7,5.0,3,1
+581,2023-03-02,Mouse,North,Bank Transfer,Individual,1,Accessories,46.03,46.03,0,46.03,5,1.0,3,1
+713,2023-03-02,Laptop,South,Cash,Educational,3,Electronics,1110.44,3331.32,15,2831.62,9,1.0,3,1
+203,2023-03-02,Headphones,South,Credit Card,Individual,3,Accessories,111.95,335.85,20,268.68,1,1.0,3,1
+456,2023-03-03,Tablet,North,Debit Card,Educational,4,Electronics,474.05,1896.2,0,1896.2,5,2.0,3,1
+883,2023-03-03,Tablet,East,Cash,Corporate,2,Electronics,483.42,966.84,15,821.81,10,2.0,3,1
+409,2023-03-03,Monitor,East,Bank Transfer,Individual,1,Electronics,286.29,286.29,5,271.98,3,5.0,3,1
+738,2023-03-03,Keyboard,Central,Bank Transfer,Individual,1,Accessories,81.39,81.39,5,77.32,9,3.0,3,1
+637,2023-03-04,Laptop,North,Bank Transfer,Educational,2,Electronics,1110.13,2220.26,0,2220.26,9,2.0,3,1
+539,2023-03-05,Keyboard,Central,Debit Card,Individual,1,Accessories,76.73,76.73,0,76.73,8,2.0,3,1
+297,2023-03-05,Mouse,South,Cash,Individual,3,Accessories,48.73,146.19,0,146.19,1,5.0,3,1
+283,2023-03-05,Mouse,East,Bank Transfer,Corporate,1,Accessories,52.15,52.15,10,46.94,9,,3,1
+666,2023-03-07,Keyboard,West,Debit Card,Corporate,1,Accessories,80.9,80.9,15,68.76,5,,3,1
+344,2023-03-08,Smartphone,South,Cash,Individual,5,Electronics,772.03,3860.15,0,3860.15,7,,3,1
+12,2023-03-08,Headphones,South,Credit Card,Individual,2,Accessories,119.75,239.5,0,239.5,9,4.0,3,1
+397,2023-03-08,Printer,Central,Credit Card,Individual,3,Peripherals,226.43,679.29,0,679.29,6,2.0,3,1
+678,2023-03-09,Printer,Central,Credit Card,Educational,3,Peripherals,247.71,743.13,10,668.82,4,4.0,3,1
+242,2023-03-10,Headphones,West,Bank Transfer,Corporate,1,Accessories,116.34,116.34,10,104.71,4,,3,1
+827,2023-03-10,Tablet,South,Cash,Educational,1,Electronics,514.56,514.56,0,514.56,2,1.0,3,1
+906,2023-03-11,Smartphone,West,Debit Card,Educational,3,Electronics,878.65,2635.95,15,2240.56,2,,3,1
+663,2023-03-11,Keyboard,North,Debit Card,Corporate,1,Accessories,79.46,79.46,10,71.51,6,,3,1
+689,2023-03-11,Headphones,Central,Bank Transfer,Educational,1,Accessories,111.89,111.89,15,95.11,6,1.0,3,1
+337,2023-03-11,Keyboard,West,Credit Card,Individual,1,Accessories,86.64,86.64,20,69.31,4,3.0,3,1
+578,2023-03-11,Mouse,East,Debit Card,Individual,1,Accessories,53.32,53.32,10,47.99,10,2.0,3,1
+87,2023-03-11,Mouse,East,Cash,Educational,1,Accessories,53.28,53.28,5,50.62,3,5.0,3,1
+335,2023-03-13,Mouse,West,Debit Card,Educational,1,Accessories,49.31,49.31,5,46.84,4,,3,1
+60,2023-03-13,Keyboard,North,Bank Transfer,Educational,5,Accessories,76.21,381.05,5,362.0,8,2.0,3,1
+398,2023-03-13,Mouse,South,PayPal,Corporate,2,Accessories,50.83,101.66,15,86.41,3,5.0,3,1
+255,2023-03-13,Laptop,South,Cash,Corporate,1,Electronics,1164.2,1164.2,5,1105.99,1,5.0,3,1
+745,2023-03-13,Tablet,North,Bank Transfer,Corporate,2,Electronics,477.71,955.42,10,859.88,3,2.0,3,1
+130,2023-03-13,Monitor,Central,Bank Transfer,Corporate,2,Electronics,271.81,543.62,0,543.62,1,,3,1
+549,2023-03-13,Smartphone,Central,Cash,Individual,4,Electronics,816.15,3264.6,0,3264.6,4,5.0,3,1
+166,2023-03-13,Laptop,East,Credit Card,Educational,3,Electronics,1312.34,3937.02,0,3937.02,7,1.0,3,1
+298,2023-03-13,Headphones,North,Bank Transfer,Individual,5,Accessories,114.13,570.65,0,570.65,8,,3,1
+789,2023-03-14,Printer,Central,PayPal,Individual,4,Peripherals,252.06,1008.24,15,857.0,2,,3,1
+373,2023-03-14,Smartphone,South,Credit Card,Educational,3,Electronics,747.35,2242.05,15,1905.74,10,2.0,3,1
+946,2023-03-14,Headphones,Central,Credit Card,Individual,4,Accessories,119.32,477.28,5,453.42,2,,3,1
+585,2023-03-14,Mouse,Central,Bank Transfer,Individual,1,Accessories,46.18,46.18,0,46.18,8,3.0,3,1
+237,2023-03-14,Mouse,East,PayPal,Individual,4,Accessories,53.19,212.76,0,212.76,8,2.0,3,1
+772,2023-03-15,Keyboard,West,Cash,Educational,2,Accessories,86.44,172.88,0,172.88,9,2.0,3,1
+648,2023-03-15,Laptop,South,PayPal,Corporate,1,Electronics,1136.1,1136.1,0,1136.1,4,2.0,3,1
+394,2023-03-15,Printer,South,Cash,Educational,5,Peripherals,226.97,1134.85,0,1134.85,8,,3,1
+389,2023-03-16,Laptop,East,Debit Card,Educational,4,Electronics,1135.55,4542.2,0,4542.2,8,3.0,3,1
+363,2023-03-16,Laptop,North,Bank Transfer,Corporate,5,Electronics,1245.13,6225.65,5,5914.37,7,,3,1
+550,2023-03-16,Headphones,South,PayPal,Educational,5,Accessories,116.18,580.9,5,551.85,2,,3,1
+401,2023-03-16,Printer,West,Bank Transfer,Educational,1,Peripherals,240.32,240.32,0,240.32,9,4.0,3,1
+621,2023-03-17,Monitor,East,Debit Card,Individual,2,Electronics,277.7,555.4,20,444.32,6,4.0,3,1
+477,2023-03-18,Laptop,North,Debit Card,Individual,2,Electronics,1192.24,2384.48,20,1907.58,7,2.0,3,1
+391,2023-03-18,Tablet,North,Cash,Individual,4,Electronics,542.65,2170.6,0,2170.6,4,5.0,3,1
+535,2023-03-19,Tablet,South,PayPal,Corporate,1,Electronics,513.14,513.14,15,436.17,3,2.0,3,1
+595,2023-03-19,Monitor,East,Cash,Corporate,4,Electronics,300.87,1203.48,0,1203.48,6,4.0,3,1
+947,2023-03-20,Keyboard,West,Credit Card,Individual,1,Accessories,73.46,73.46,0,73.46,5,,3,1
+59,2023-03-20,Tablet,West,Credit Card,Educational,2,Electronics,474.97,949.94,0,949.94,7,,3,1
+811,2023-03-20,Tablet,South,Cash,Individual,1,Electronics,488.28,488.28,20,390.62,9,1.0,3,1
+196,2023-03-20,Smartphone,North,Debit Card,Individual,4,Electronics,837.59,3350.36,20,2680.29,9,4.0,3,1
+556,2023-03-20,Printer,West,Bank Transfer,Individual,2,Peripherals,251.27,502.54,0,502.54,9,1.0,3,1
+94,2023-03-21,Mouse,South,Debit Card,Individual,4,Accessories,54.11,216.44,10,194.8,2,1.0,3,1
+778,2023-03-21,Printer,East,Cash,Corporate,1,Peripherals,266.32,266.32,0,266.32,3,1.0,3,1
+227,2023-03-21,Keyboard,North,PayPal,Corporate,2,Accessories,81.52,163.04,10,146.74,6,2.0,3,1
+364,2023-03-22,Smartphone,North,Credit Card,Individual,2,Electronics,739.26,1478.52,0,1478.52,9,3.0,3,1
+300,2023-03-25,Printer,East,PayPal,Individual,3,Peripherals,242.74,728.22,0,728.22,7,2.0,3,1
+329,2023-03-26,Printer,South,Bank Transfer,Individual,1,Peripherals,261.57,261.57,15,222.33,9,3.0,3,1
+23,2023-03-27,Smartphone,North,Debit Card,Educational,4,Electronics,740.16,2960.64,10,2664.58,1,4.0,3,1
+412,2023-03-27,Printer,East,Cash,Educational,1,Peripherals,252.49,252.49,0,252.49,5,4.0,3,1
+948,2023-03-27,Printer,Central,Bank Transfer,Corporate,1,Peripherals,256.28,256.28,0,256.28,10,3.0,3,1
+522,2023-03-27,Headphones,East,Cash,Individual,3,Accessories,122.54,367.62,0,367.62,7,,3,1
+55,2023-03-28,Headphones,North,Bank Transfer,Corporate,3,Accessories,124.15,372.45,5,353.83,6,1.0,3,1
+994,2023-03-28,Monitor,North,PayPal,Educational,1,Electronics,329.82,329.82,10,296.84,10,,3,1
+736,2023-03-29,Tablet,East,PayPal,Individual,3,Electronics,543.96,1631.88,0,1631.88,6,5.0,3,1
+123,2023-03-29,Smartphone,Central,PayPal,Educational,2,Electronics,730.59,1461.18,0,1461.18,8,1.0,3,1
+963,2023-03-29,Mouse,South,Debit Card,Individual,5,Accessories,50.72,253.6,0,253.6,9,2.0,3,1
+494,2023-03-29,Mouse,Central,Debit Card,Corporate,1,Accessories,54.92,54.92,0,54.92,2,3.0,3,1
+334,2023-03-29,Tablet,Central,Credit Card,Individual,3,Electronics,534.47,1603.41,0,1603.41,5,5.0,3,1
+727,2023-03-30,Tablet,Central,Debit Card,Educational,5,Electronics,506.59,2532.95,20,2026.36,7,2.0,3,1
+899,2023-03-30,Headphones,North,Bank Transfer,Individual,1,Accessories,124.21,124.21,5,118.0,4,4.0,3,1
+872,2023-03-30,Printer,West,Debit Card,Individual,2,Peripherals,264.12,528.24,15,449.0,10,,3,1
+861,2023-03-30,Monitor,West,PayPal,Individual,4,Electronics,284.22,1136.88,10,1023.19,7,1.0,3,1
+540,2023-03-30,Smartphone,South,PayPal,Individual,2,Electronics,826.21,1652.42,0,1652.42,4,4.0,3,1
+565,2023-03-30,Monitor,West,Cash,Educational,4,Electronics,286.32,1145.28,5,1088.02,9,1.0,3,1
+587,2023-03-30,Mouse,South,Bank Transfer,Individual,5,Accessories,52.12,260.6,15,221.51,1,,3,1
+17,2023-03-31,Monitor,South,Cash,Educational,5,Electronics,291.68,1458.4,0,1458.4,7,5.0,3,1
+829,2023-03-31,Headphones,East,PayPal,Corporate,4,Accessories,130.7,522.8,5,496.66,4,4.0,3,1
+897,2023-03-31,Mouse,Central,Debit Card,Corporate,4,Accessories,54.97,219.88,0,219.88,2,5.0,3,1
+834,2023-03-31,Monitor,South,Cash,Individual,3,Electronics,277.62,832.86,10,749.57,4,3.0,3,1
+218,2023-03-31,Keyboard,Central,Credit Card,Educational,3,Accessories,85.22,255.66,0,255.66,4,3.0,3,1
+175,2023-04-01,Printer,North,Debit Card,Educational,3,Peripherals,270.22,810.66,0,810.66,10,1.0,4,2
+640,2023-04-01,Printer,West,Cash,Educational,5,Peripherals,248.92,1244.6,5,1182.37,3,1.0,4,2
+425,2023-04-01,Printer,South,Cash,Corporate,1,Peripherals,229.18,229.18,10,206.26,3,3.0,4,2
+987,2023-04-01,Monitor,West,Credit Card,Educational,2,Electronics,279.23,558.46,20,446.77,7,1.0,4,2
+188,2023-04-02,Headphones,West,Cash,Educational,4,Accessories,124.59,498.36,0,498.36,7,4.0,4,2
+569,2023-04-02,Headphones,East,Cash,Individual,2,Accessories,122.24,244.48,0,244.48,10,1.0,4,2
+943,2023-04-03,Printer,South,Cash,Educational,4,Peripherals,254.24,1016.96,10,915.26,7,1.0,4,2
+806,2023-04-03,Monitor,Central,Cash,Individual,5,Electronics,293.2,1466.0,0,1466.0,4,,4,2
+964,2023-04-03,Headphones,East,Credit Card,Corporate,4,Accessories,112.34,449.36,0,449.36,8,5.0,4,2
+563,2023-04-03,Headphones,South,Debit Card,Educational,5,Accessories,115.1,575.5,0,575.5,10,5.0,4,2
+462,2023-04-03,Keyboard,South,PayPal,Educational,2,Accessories,74.5,149.0,15,126.65,10,,4,2
+493,2023-04-04,Laptop,West,PayPal,Corporate,1,Electronics,1293.58,1293.58,10,1164.22,6,1.0,4,2
+180,2023-04-04,Tablet,North,PayPal,Educational,5,Electronics,471.24,2356.2,10,2120.58,10,1.0,4,2
+594,2023-04-06,Monitor,North,Credit Card,Corporate,5,Electronics,303.94,1519.7,15,1291.75,2,,4,2
+937,2023-04-07,Mouse,West,Credit Card,Individual,4,Accessories,47.88,191.52,0,191.52,5,2.0,4,2
+671,2023-04-07,Laptop,East,Debit Card,Individual,5,Electronics,1093.65,5468.25,15,4648.01,7,5.0,4,2
+531,2023-04-08,Laptop,South,Cash,Educational,1,Electronics,1083.28,1083.28,0,1083.28,3,1.0,4,2
+233,2023-04-09,Monitor,West,Debit Card,Educational,2,Electronics,280.35,560.7,0,560.7,10,,4,2
+202,2023-04-09,Printer,West,Debit Card,Educational,4,Peripherals,246.69,986.76,15,838.75,2,2.0,4,2
+407,2023-04-09,Mouse,East,Cash,Educational,5,Accessories,47.75,238.75,0,238.75,8,4.0,4,2
+417,2023-04-10,Keyboard,West,Cash,Individual,5,Accessories,75.59,377.95,10,340.16,9,3.0,4,2
+408,2023-04-11,Printer,South,PayPal,Educational,4,Peripherals,260.47,1041.88,0,1041.88,3,5.0,4,2
+971,2023-04-11,Printer,Central,Cash,Corporate,4,Peripherals,246.32,985.28,10,886.75,6,5.0,4,2
+32,2023-04-11,Laptop,North,Bank Transfer,Individual,1,Electronics,1212.64,1212.64,0,1212.64,7,,4,2
+487,2023-04-12,Tablet,South,Credit Card,Corporate,3,Electronics,532.33,1596.99,5,1517.14,1,3.0,4,2
+479,2023-04-12,Laptop,South,Credit Card,Individual,3,Electronics,1178.69,3536.07,10,3182.46,6,5.0,4,2
+41,2023-04-13,Tablet,North,Bank Transfer,Educational,5,Electronics,532.57,2662.85,0,2662.85,9,,4,2
+275,2023-04-15,Laptop,North,Cash,Corporate,4,Electronics,1207.58,4830.32,0,4830.32,6,2.0,4,2
+155,2023-04-15,Keyboard,North,Bank Transfer,Corporate,2,Accessories,77.49,154.98,0,154.98,5,3.0,4,2
+145,2023-04-15,Printer,East,Credit Card,Educational,3,Peripherals,225.51,676.53,15,575.05,5,3.0,4,2
+158,2023-04-16,Smartphone,Central,Bank Transfer,Corporate,4,Electronics,749.72,2998.88,0,2998.88,5,5.0,4,2
+718,2023-04-16,Monitor,North,Bank Transfer,Educational,4,Electronics,273.51,1094.04,10,984.64,7,,4,2
+25,2023-04-17,Monitor,North,Credit Card,Individual,1,Electronics,327.09,327.09,10,294.38,10,5.0,4,2
+161,2023-04-17,Headphones,West,Bank Transfer,Educational,2,Accessories,109.48,218.96,0,218.96,4,,4,2
+926,2023-04-18,Tablet,South,Debit Card,Corporate,1,Electronics,519.5,519.5,0,519.5,3,2.0,4,2
+497,2023-04-19,Tablet,South,Debit Card,Educational,1,Electronics,526.54,526.54,0,526.54,2,1.0,4,2
+183,2023-04-19,Mouse,North,Cash,Educational,3,Accessories,49.02,147.06,0,147.06,3,4.0,4,2
+527,2023-04-20,Tablet,North,Cash,Individual,5,Electronics,497.85,2489.25,20,1991.4,7,1.0,4,2
+406,2023-04-20,Monitor,South,Bank Transfer,Corporate,2,Electronics,302.65,605.3,20,484.24,4,4.0,4,2
+284,2023-04-20,Headphones,North,PayPal,Educational,2,Accessories,109.64,219.28,15,186.39,5,5.0,4,2
+511,2023-04-20,Laptop,Central,Bank Transfer,Individual,3,Electronics,1182.97,3548.91,0,3548.91,2,4.0,4,2
+88,2023-04-21,Laptop,East,PayPal,Corporate,5,Electronics,1120.97,5604.85,5,5324.61,9,4.0,4,2
+197,2023-04-21,Smartphone,West,PayPal,Corporate,5,Electronics,805.03,4025.15,0,4025.15,4,5.0,4,2
+325,2023-04-21,Mouse,East,Cash,Educational,5,Accessories,52.52,262.6,0,262.6,4,2.0,4,2
+521,2023-04-21,Printer,South,Cash,Individual,2,Peripherals,231.55,463.1,0,463.1,10,4.0,4,2
+57,2023-04-22,Printer,Central,Credit Card,Educational,5,Peripherals,235.91,1179.55,0,1179.55,5,,4,2
+174,2023-04-22,Monitor,East,PayPal,Individual,1,Electronics,304.67,304.67,15,258.97,10,4.0,4,2
+404,2023-04-23,Laptop,East,Debit Card,Individual,3,Electronics,1175.44,3526.32,15,2997.37,8,5.0,4,2
+732,2023-04-23,Laptop,South,Debit Card,Individual,5,Electronics,1116.35,5581.75,5,5302.66,4,1.0,4,2
+935,2023-04-24,Printer,West,Bank Transfer,Corporate,3,Peripherals,254.96,764.88,10,688.39,10,5.0,4,2
+519,2023-04-24,Printer,East,Bank Transfer,Individual,4,Peripherals,235.94,943.76,0,943.76,8,3.0,4,2
+684,2023-04-25,Monitor,South,Cash,Individual,4,Electronics,328.16,1312.64,0,1312.64,4,5.0,4,2
+729,2023-04-25,Keyboard,West,Bank Transfer,Individual,4,Accessories,78.34,313.36,15,266.36,4,3.0,4,2
+941,2023-04-26,Monitor,Central,Debit Card,Educational,1,Electronics,314.08,314.08,15,266.97,6,4.0,4,2
+4,2023-04-26,Headphones,Central,Cash,Corporate,4,Accessories,128.69,514.76,10,463.28,8,4.0,4,2
+120,2023-04-28,Keyboard,East,Bank Transfer,Corporate,2,Accessories,81.05,162.1,15,137.78,2,4.0,4,2
+198,2023-04-28,Monitor,East,Debit Card,Individual,1,Electronics,287.28,287.28,5,272.92,8,1.0,4,2
+467,2023-04-29,Printer,Central,PayPal,Educational,4,Peripherals,229.06,916.24,20,732.99,7,4.0,4,2
+993,2023-04-30,Smartphone,Central,Credit Card,Individual,2,Electronics,869.08,1738.16,0,1738.16,3,1.0,4,2
+843,2023-04-30,Laptop,South,Credit Card,Corporate,3,Electronics,1171.71,3515.13,0,3515.13,5,1.0,4,2
+518,2023-04-30,Mouse,South,Cash,Individual,5,Accessories,52.47,262.35,0,262.35,4,2.0,4,2
+643,2023-04-30,Printer,North,Bank Transfer,Corporate,3,Peripherals,229.3,687.9,10,619.11,7,3.0,4,2
+368,2023-04-30,Smartphone,West,PayPal,Educational,1,Electronics,755.63,755.63,0,755.63,7,1.0,4,2
+719,2023-05-01,Printer,North,Cash,Corporate,2,Peripherals,252.62,505.24,5,479.98,3,5.0,5,2
+39,2023-05-01,Laptop,Central,Bank Transfer,Corporate,4,Electronics,1132.49,4529.96,10,4076.96,5,5.0,5,2
+324,2023-05-01,Smartphone,Central,Credit Card,Educational,3,Electronics,784.51,2353.53,0,2353.53,7,3.0,5,2
+413,2023-05-02,Mouse,West,Bank Transfer,Corporate,2,Accessories,45.51,91.02,10,81.92,8,,5,2
+517,2023-05-02,Printer,North,Credit Card,Corporate,3,Peripherals,256.27,768.81,20,615.05,7,3.0,5,2
+451,2023-05-02,Mouse,West,Cash,Individual,3,Accessories,53.86,161.58,15,137.34,8,5.0,5,2
+681,2023-05-02,Printer,Central,Debit Card,Corporate,2,Peripherals,237.54,475.08,15,403.82,1,2.0,5,2
+488,2023-05-03,Monitor,North,Bank Transfer,Corporate,2,Electronics,303.37,606.74,10,546.07,8,,5,2
+919,2023-05-03,Monitor,West,Debit Card,Corporate,2,Electronics,282.61,565.22,20,452.18,10,2.0,5,2
+933,2023-05-03,Laptop,West,PayPal,Educational,5,Electronics,1142.72,5713.6,0,5713.6,8,4.0,5,2
+438,2023-05-04,Printer,East,Cash,Educational,1,Peripherals,232.69,232.69,0,232.69,10,3.0,5,2
+369,2023-05-05,Tablet,West,Debit Card,Educational,3,Electronics,480.72,1442.16,0,1442.16,2,5.0,5,2
+16,2023-05-05,Keyboard,South,Cash,Educational,2,Accessories,85.41,170.82,20,136.66,8,5.0,5,2
+414,2023-05-05,Laptop,East,Debit Card,Individual,5,Electronics,1182.27,5911.35,0,5911.35,6,2.0,5,2
+928,2023-05-05,Monitor,South,PayPal,Individual,4,Electronics,317.77,1271.08,0,1271.08,3,4.0,5,2
+45,2023-05-05,Monitor,Central,Debit Card,Educational,2,Electronics,304.28,608.56,5,578.13,6,,5,2
+972,2023-05-05,Headphones,North,PayPal,Educational,2,Accessories,122.77,245.54,0,245.54,6,,5,2
+436,2023-05-05,Printer,North,PayPal,Corporate,5,Peripherals,265.27,1326.35,0,1326.35,3,1.0,5,2
+319,2023-05-05,Headphones,West,Bank Transfer,Individual,4,Accessories,129.27,517.08,0,517.08,1,,5,2
+9,2023-05-06,Headphones,Central,PayPal,Educational,3,Accessories,129.35,388.05,10,349.24,5,5.0,5,2
+163,2023-05-06,Printer,Central,PayPal,Corporate,5,Peripherals,233.14,1165.7,5,1107.42,4,4.0,5,2
+711,2023-05-06,Headphones,South,Debit Card,Corporate,3,Accessories,117.64,352.92,0,352.92,2,5.0,5,2
+486,2023-05-06,Mouse,South,Cash,Educational,5,Accessories,51.89,259.45,20,207.56,9,2.0,5,2
+49,2023-05-06,Mouse,South,PayPal,Educational,3,Accessories,48.67,146.01,0,146.01,2,1.0,5,2
+728,2023-05-07,Tablet,East,Bank Transfer,Individual,2,Electronics,540.8,1081.6,0,1081.6,4,2.0,5,2
+628,2023-05-07,Mouse,North,Cash,Individual,5,Accessories,52.3,261.5,20,209.2,7,1.0,5,2
+92,2023-05-07,Monitor,North,Credit Card,Corporate,5,Electronics,300.63,1503.15,20,1202.52,4,3.0,5,2
+586,2023-05-07,Headphones,North,Bank Transfer,Individual,5,Accessories,108.0,540.0,5,513.0,5,,5,2
+548,2023-05-08,Monitor,West,Credit Card,Educational,3,Electronics,275.39,826.17,15,702.24,2,1.0,5,2
+800,2023-05-08,Tablet,Central,Credit Card,Educational,3,Electronics,516.65,1549.95,5,1472.45,5,2.0,5,2
+536,2023-05-08,Mouse,Central,Debit Card,Individual,5,Accessories,49.26,246.3,5,233.98,7,4.0,5,2
+229,2023-05-09,Laptop,East,Debit Card,Educational,2,Electronics,1087.79,2175.58,15,1849.24,3,2.0,5,2
+86,2023-05-09,Tablet,South,Bank Transfer,Corporate,3,Electronics,489.79,1469.37,0,1469.37,2,,5,2
+316,2023-05-10,Printer,North,Bank Transfer,Individual,3,Peripherals,261.57,784.71,0,784.71,2,3.0,5,2
+702,2023-05-10,Printer,North,Debit Card,Corporate,3,Peripherals,228.07,684.21,0,684.21,2,3.0,5,2
+725,2023-05-10,Laptop,Central,Bank Transfer,Educational,2,Electronics,1209.67,2419.34,20,1935.47,2,5.0,5,2
+276,2023-05-10,Monitor,South,Cash,Corporate,2,Electronics,271.96,543.92,0,543.92,7,5.0,5,2
+150,2023-05-11,Printer,East,Bank Transfer,Educational,2,Peripherals,240.59,481.18,0,481.18,6,2.0,5,2
+208,2023-05-11,Monitor,Central,Credit Card,Corporate,3,Electronics,313.98,941.94,15,800.65,10,,5,2
+796,2023-05-11,Headphones,South,Cash,Educational,1,Accessories,122.5,122.5,15,104.12,10,2.0,5,2
+642,2023-05-12,Mouse,South,Bank Transfer,Corporate,1,Accessories,50.41,50.41,0,50.41,8,5.0,5,2
+764,2023-05-12,Smartphone,South,Credit Card,Corporate,3,Electronics,850.3,2550.9,10,2295.81,4,5.0,5,2
+246,2023-05-12,Mouse,East,Bank Transfer,Educational,4,Accessories,49.58,198.32,10,178.49,8,5.0,5,2
+551,2023-05-12,Laptop,Central,Cash,Individual,1,Electronics,1300.14,1300.14,0,1300.14,1,4.0,5,2
+100,2023-05-12,Keyboard,South,Bank Transfer,Corporate,1,Accessories,79.01,79.01,0,79.01,1,,5,2
+860,2023-05-13,Headphones,South,Bank Transfer,Corporate,1,Accessories,117.44,117.44,15,99.82,3,5.0,5,2
+783,2023-05-13,Printer,North,Debit Card,Educational,5,Peripherals,266.3,1331.5,0,1331.5,4,2.0,5,2
+871,2023-05-13,Keyboard,North,Bank Transfer,Corporate,4,Accessories,77.6,310.4,0,310.4,10,,5,2
+421,2023-05-14,Smartphone,Central,Debit Card,Educational,1,Electronics,735.26,735.26,0,735.26,1,1.0,5,2
+164,2023-05-14,Monitor,South,Bank Transfer,Educational,5,Electronics,305.71,1528.55,10,1375.7,4,1.0,5,2
+831,2023-05-14,Keyboard,Central,PayPal,Individual,3,Accessories,76.75,230.25,0,230.25,9,5.0,5,2
+534,2023-05-16,Laptop,Central,Bank Transfer,Corporate,1,Electronics,1086.68,1086.68,10,978.01,10,3.0,5,2
+591,2023-05-17,Laptop,East,Cash,Individual,1,Electronics,1209.67,1209.67,0,1209.67,8,1.0,5,2
+758,2023-05-17,Tablet,North,Credit Card,Individual,5,Electronics,498.13,2490.65,0,2490.65,2,,5,2
+753,2023-05-17,Smartphone,North,Cash,Individual,5,Electronics,784.87,3924.35,5,3728.13,4,3.0,5,2
+682,2023-05-17,Keyboard,South,Debit Card,Educational,3,Accessories,73.93,221.79,5,210.7,1,1.0,5,2
+665,2023-05-18,Laptop,West,Bank Transfer,Educational,1,Electronics,1248.42,1248.42,20,998.74,6,5.0,5,2
+777,2023-05-18,Laptop,East,Credit Card,Individual,5,Electronics,1276.92,6384.6,10,5746.14,1,5.0,5,2
+924,2023-05-19,Headphones,East,Debit Card,Corporate,5,Accessories,121.53,607.65,10,546.88,9,2.0,5,2
+683,2023-05-19,Headphones,West,Bank Transfer,Educational,2,Accessories,122.03,244.06,20,195.25,5,,5,2
+288,2023-05-19,Keyboard,Central,Cash,Individual,5,Accessories,87.02,435.1,0,435.1,4,4.0,5,2
+410,2023-05-19,Mouse,North,Debit Card,Educational,3,Accessories,54.04,162.12,0,162.12,4,3.0,5,2
+213,2023-05-22,Keyboard,West,Credit Card,Individual,2,Accessories,82.51,165.02,0,165.02,7,5.0,5,2
+74,2023-05-22,Smartphone,East,Cash,Individual,4,Electronics,753.21,3012.84,0,3012.84,4,1.0,5,2
+68,2023-05-22,Laptop,East,Cash,Corporate,2,Electronics,1164.29,2328.58,0,2328.58,5,4.0,5,2
+136,2023-05-23,Keyboard,North,Cash,Individual,2,Accessories,82.86,165.72,10,149.15,6,3.0,5,2
+931,2023-05-23,Headphones,North,Credit Card,Educational,3,Accessories,119.72,359.16,5,341.2,7,1.0,5,2
+746,2023-05-23,Smartphone,South,Debit Card,Corporate,4,Electronics,870.54,3482.16,15,2959.84,6,,5,2
+176,2023-05-23,Mouse,Central,Credit Card,Corporate,3,Accessories,53.17,159.51,5,151.53,9,4.0,5,2
+734,2023-05-23,Printer,West,Cash,Individual,4,Peripherals,254.78,1019.12,0,1019.12,8,5.0,5,2
+564,2023-05-23,Headphones,Central,Bank Transfer,Individual,5,Accessories,108.03,540.15,20,432.12,5,1.0,5,2
+250,2023-05-24,Tablet,East,Credit Card,Educational,3,Electronics,507.76,1523.28,0,1523.28,3,1.0,5,2
+47,2023-05-24,Printer,Central,Bank Transfer,Educational,4,Peripherals,243.73,974.92,20,779.94,3,5.0,5,2
+515,2023-05-24,Smartphone,South,Debit Card,Educational,2,Electronics,830.78,1661.56,0,1661.56,7,3.0,5,2
+146,2023-05-25,Headphones,North,Cash,Corporate,3,Accessories,125.19,375.57,10,338.01,8,,5,2
+135,2023-05-25,Headphones,Central,Credit Card,Individual,5,Accessories,122.68,613.4,0,613.4,3,5.0,5,2
+8,2023-05-26,Keyboard,Central,PayPal,Educational,2,Accessories,87.83,175.66,5,166.88,5,,5,2
+361,2023-05-26,Monitor,Central,Debit Card,Corporate,4,Electronics,306.21,1224.84,0,1224.84,1,5.0,5,2
+790,2023-05-26,Headphones,East,Debit Card,Educational,2,Accessories,122.52,245.04,0,245.04,4,4.0,5,2
+623,2023-05-26,Headphones,West,Bank Transfer,Educational,1,Accessories,124.64,124.64,5,118.41,4,2.0,5,2
+840,2023-05-26,Keyboard,Central,PayPal,Individual,4,Accessories,82.95,331.8,5,315.21,2,3.0,5,2
+687,2023-05-26,Mouse,South,Debit Card,Corporate,4,Accessories,48.39,193.56,0,193.56,7,2.0,5,2
+966,2023-05-27,Laptop,North,Debit Card,Educational,5,Electronics,1127.67,5638.35,0,5638.35,1,1.0,5,2
+673,2023-05-27,Mouse,West,PayPal,Educational,3,Accessories,52.02,156.06,0,156.06,6,3.0,5,2
+231,2023-05-27,Mouse,East,Cash,Individual,1,Accessories,50.32,50.32,0,50.32,1,5.0,5,2
+950,2023-05-27,Keyboard,South,Debit Card,Educational,5,Accessories,78.52,392.6,0,392.6,1,3.0,5,2
+659,2023-05-27,Monitor,East,PayPal,Educational,4,Electronics,304.99,1219.96,0,1219.96,4,,5,2
+259,2023-05-28,Printer,South,Debit Card,Individual,5,Peripherals,235.45,1177.25,15,1000.66,8,,5,2
+634,2023-05-28,Laptop,Central,Credit Card,Educational,5,Electronics,1228.11,6140.55,5,5833.52,1,3.0,5,2
+615,2023-05-28,Mouse,Central,Credit Card,Corporate,5,Accessories,49.03,245.15,10,220.64,10,5.0,5,2
+730,2023-05-29,Monitor,East,Cash,Individual,1,Electronics,287.78,287.78,5,273.39,2,1.0,5,2
+870,2023-05-29,Mouse,East,Credit Card,Educational,5,Accessories,47.81,239.05,0,239.05,10,5.0,5,2
+742,2023-05-29,Mouse,South,Bank Transfer,Individual,1,Accessories,51.3,51.3,0,51.3,3,3.0,5,2
+263,2023-05-29,Keyboard,North,Bank Transfer,Educational,4,Accessories,85.45,341.8,0,341.8,10,3.0,5,2
+147,2023-05-30,Tablet,South,Cash,Educational,5,Electronics,520.62,2603.1,20,2082.48,4,1.0,5,2
+955,2023-05-30,Tablet,West,Credit Card,Corporate,4,Electronics,536.17,2144.68,10,1930.21,2,2.0,5,2
+952,2023-05-30,Monitor,West,Debit Card,Individual,3,Electronics,323.79,971.37,5,922.8,1,1.0,5,2
+915,2023-05-30,Monitor,Central,Debit Card,Corporate,5,Electronics,279.69,1398.45,0,1398.45,8,,5,2
+184,2023-05-30,Tablet,North,Bank Transfer,Corporate,2,Electronics,538.46,1076.92,5,1023.07,5,4.0,5,2
+30,2023-05-30,Monitor,East,Cash,Corporate,4,Electronics,308.68,1234.72,20,987.78,7,4.0,5,2
+546,2023-05-31,Printer,North,PayPal,Educational,4,Peripherals,250.01,1000.04,0,1000.04,7,,5,2
+903,2023-05-31,Mouse,Central,Cash,Individual,2,Accessories,54.49,108.98,0,108.98,5,4.0,5,2
+447,2023-05-31,Tablet,North,Debit Card,Corporate,1,Electronics,519.72,519.72,15,441.76,8,1.0,5,2
+84,2023-05-31,Printer,South,PayPal,Individual,3,Peripherals,274.98,824.94,15,701.2,9,,5,2
+142,2023-06-01,Laptop,North,Cash,Individual,5,Electronics,1146.59,5732.95,0,5732.95,7,4.0,6,2
+959,2023-06-01,Smartphone,North,Credit Card,Corporate,4,Electronics,849.63,3398.52,0,3398.52,6,1.0,6,2
+268,2023-06-01,Printer,North,Bank Transfer,Corporate,4,Peripherals,244.23,976.92,0,976.92,4,4.0,6,2
+223,2023-06-02,Mouse,East,Credit Card,Corporate,5,Accessories,46.19,230.95,20,184.76,5,,6,2
+431,2023-06-02,Laptop,North,Credit Card,Individual,3,Electronics,1160.26,3480.78,5,3306.74,2,1.0,6,2
+647,2023-06-02,Keyboard,North,Bank Transfer,Educational,1,Accessories,80.71,80.71,0,80.71,10,5.0,6,2
+503,2023-06-02,Keyboard,South,Cash,Individual,1,Accessories,82.78,82.78,0,82.78,10,4.0,6,2
+185,2023-06-03,Laptop,Central,Cash,Educational,1,Electronics,1294.94,1294.94,5,1230.19,8,,6,2
+859,2023-06-04,Smartphone,North,PayPal,Corporate,3,Electronics,770.46,2311.38,10,2080.24,7,,6,2
+583,2023-06-04,Monitor,East,Debit Card,Educational,3,Electronics,313.74,941.22,0,941.22,6,4.0,6,2
+630,2023-06-04,Headphones,North,Cash,Educational,2,Accessories,112.48,224.96,10,202.46,8,1.0,6,2
+99,2023-06-04,Mouse,West,Bank Transfer,Educational,1,Accessories,50.51,50.51,5,47.98,10,2.0,6,2
+96,2023-06-04,Mouse,North,Debit Card,Corporate,3,Accessories,50.01,150.03,0,150.03,4,1.0,6,2
+690,2023-06-05,Smartphone,Central,Cash,Corporate,1,Electronics,825.3,825.3,20,660.24,10,4.0,6,2
+48,2023-06-05,Headphones,Central,Credit Card,Individual,4,Accessories,127.15,508.6,15,432.31,5,2.0,6,2
+865,2023-06-05,Monitor,West,PayPal,Individual,4,Electronics,310.65,1242.6,20,994.08,6,1.0,6,2
+122,2023-06-05,Keyboard,East,Debit Card,Individual,1,Accessories,78.2,78.2,15,66.47,8,,6,2
+875,2023-06-06,Smartphone,North,Debit Card,Individual,2,Electronics,859.89,1719.78,10,1547.8,2,2.0,6,2
+138,2023-06-06,Laptop,North,Credit Card,Corporate,1,Electronics,1283.55,1283.55,10,1155.2,6,5.0,6,2
+340,2023-06-06,Monitor,Central,Credit Card,Individual,3,Electronics,299.04,897.12,20,717.7,6,5.0,6,2
+214,2023-06-07,Headphones,East,Debit Card,Corporate,2,Accessories,129.56,259.12,15,220.25,10,5.0,6,2
+774,2023-06-07,Monitor,South,Credit Card,Educational,1,Electronics,282.98,282.98,10,254.68,5,4.0,6,2
+40,2023-06-07,Tablet,West,Bank Transfer,Corporate,3,Electronics,468.28,1404.84,0,1404.84,1,2.0,6,2
+573,2023-06-07,Laptop,West,Debit Card,Educational,5,Electronics,1239.61,6198.05,10,5578.24,5,1.0,6,2
+481,2023-06-08,Monitor,East,Debit Card,Educational,2,Electronics,289.82,579.64,20,463.71,6,,6,2
+430,2023-06-08,Monitor,North,Debit Card,Educational,4,Electronics,296.53,1186.12,0,1186.12,4,,6,2
+749,2023-06-08,Laptop,South,Cash,Corporate,5,Electronics,1313.03,6565.15,5,6236.89,5,5.0,6,2
+692,2023-06-08,Mouse,East,PayPal,Educational,2,Accessories,49.52,99.04,0,99.04,8,,6,2
+735,2023-06-08,Smartphone,West,Bank Transfer,Educational,5,Electronics,732.9,3664.5,15,3114.82,3,4.0,6,2
+262,2023-06-09,Mouse,Central,PayPal,Educational,4,Accessories,49.82,199.28,20,159.42,10,5.0,6,2
+423,2023-06-09,Mouse,South,Cash,Corporate,4,Accessories,48.37,193.48,0,193.48,8,,6,2
+890,2023-06-09,Laptop,North,Bank Transfer,Individual,1,Electronics,1094.31,1094.31,10,984.88,10,,6,2
+533,2023-06-10,Laptop,Central,PayPal,Educational,2,Electronics,1142.06,2284.12,5,2169.91,6,5.0,6,2
+238,2023-06-10,Mouse,West,Bank Transfer,Individual,1,Accessories,54.84,54.84,15,46.61,3,3.0,6,2
+785,2023-06-11,Smartphone,West,Bank Transfer,Individual,4,Electronics,845.5,3382.0,10,3043.8,3,5.0,6,2
+976,2023-06-11,Smartphone,East,Credit Card,Individual,5,Electronics,802.89,4014.45,0,4014.45,6,1.0,6,2
+186,2023-06-11,Keyboard,West,Debit Card,Individual,1,Accessories,86.55,86.55,20,69.24,1,1.0,6,2
+567,2023-06-11,Smartphone,South,PayPal,Individual,1,Electronics,825.89,825.89,20,660.71,2,1.0,6,2
+839,2023-06-12,Monitor,East,Cash,Educational,1,Electronics,329.37,329.37,20,263.5,8,,6,2
+688,2023-06-12,Keyboard,East,Bank Transfer,Corporate,4,Accessories,80.09,320.36,0,320.36,8,4.0,6,2
+234,2023-06-12,Monitor,Central,Debit Card,Individual,1,Electronics,304.08,304.08,0,304.08,5,2.0,6,2
+505,2023-06-12,Headphones,West,Bank Transfer,Corporate,3,Accessories,115.78,347.34,20,277.87,2,,6,2
+317,2023-06-12,Tablet,West,Credit Card,Individual,2,Electronics,545.81,1091.62,15,927.88,2,2.0,6,2
+171,2023-06-13,Printer,South,Bank Transfer,Corporate,2,Peripherals,258.1,516.2,0,516.2,2,5.0,6,2
+927,2023-06-14,Keyboard,West,Bank Transfer,Educational,4,Accessories,81.08,324.32,20,259.46,5,1.0,6,2
+14,2023-06-14,Tablet,Central,Cash,Educational,5,Electronics,499.26,2496.3,0,2496.3,2,4.0,6,2
+773,2023-06-15,Laptop,Central,Credit Card,Individual,1,Electronics,1171.97,1171.97,0,1171.97,1,3.0,6,2
+116,2023-06-15,Monitor,East,Bank Transfer,Corporate,5,Electronics,277.53,1387.65,0,1387.65,9,,6,2
+370,2023-06-16,Headphones,West,Credit Card,Individual,1,Accessories,121.12,121.12,20,96.9,6,4.0,6,2
+215,2023-06-16,Tablet,North,Cash,Corporate,5,Electronics,489.95,2449.75,20,1959.8,5,1.0,6,2
+126,2023-06-16,Printer,South,Debit Card,Educational,2,Peripherals,251.24,502.48,15,427.11,3,2.0,6,2
+685,2023-06-18,Laptop,East,Cash,Corporate,1,Electronics,1170.68,1170.68,15,995.08,9,2.0,6,2
+137,2023-06-18,Laptop,Central,Cash,Individual,1,Electronics,1156.21,1156.21,0,1156.21,1,1.0,6,2
+661,2023-06-18,Printer,East,PayPal,Educational,4,Peripherals,243.24,972.96,5,924.31,6,3.0,6,2
+72,2023-06-18,Smartphone,West,PayPal,Individual,5,Electronics,726.41,3632.05,20,2905.64,10,1.0,6,2
+606,2023-06-18,Tablet,North,PayPal,Educational,4,Electronics,548.73,2194.92,0,2194.92,6,3.0,6,2
+267,2023-06-20,Monitor,East,Bank Transfer,Corporate,1,Electronics,319.42,319.42,0,319.42,2,3.0,6,2
+529,2023-06-21,Smartphone,East,PayPal,Individual,4,Electronics,773.12,3092.48,20,2473.98,5,3.0,6,2
+982,2023-06-21,Printer,West,Bank Transfer,Individual,2,Peripherals,257.47,514.94,0,514.94,9,,6,2
+252,2023-06-21,Laptop,South,Credit Card,Educational,2,Electronics,1277.65,2555.3,0,2555.3,1,2.0,6,2
+731,2023-06-22,Tablet,Central,PayPal,Corporate,3,Electronics,464.35,1393.05,0,1393.05,5,3.0,6,2
+984,2023-06-23,Keyboard,North,Cash,Educational,3,Accessories,84.78,254.34,0,254.34,9,4.0,6,2
+559,2023-06-23,Printer,Central,Bank Transfer,Corporate,5,Peripherals,264.61,1323.05,0,1323.05,3,5.0,6,2
+28,2023-06-24,Smartphone,South,PayPal,Corporate,2,Electronics,812.69,1625.38,0,1625.38,5,2.0,6,2
+278,2023-06-24,Mouse,East,Debit Card,Individual,3,Accessories,49.08,147.24,15,125.15,7,5.0,6,2
+744,2023-06-24,Keyboard,South,Credit Card,Educational,5,Accessories,84.54,422.7,5,401.56,5,1.0,6,2
+570,2023-06-24,Headphones,North,Bank Transfer,Corporate,1,Accessories,108.39,108.39,0,108.39,2,4.0,6,2
+331,2023-06-25,Laptop,East,Cash,Corporate,1,Electronics,1115.14,1115.14,15,947.87,3,5.0,6,2
+636,2023-06-25,Smartphone,Central,Cash,Individual,5,Electronics,751.4,3757.0,0,3757.0,9,5.0,6,2
+6,2023-06-26,Printer,Central,PayPal,Educational,3,Peripherals,251.9,755.7,0,755.7,8,3.0,6,2
+269,2023-06-26,Headphones,Central,Debit Card,Corporate,5,Accessories,119.02,595.1,10,535.59,3,1.0,6,2
+770,2023-06-26,Laptop,North,Debit Card,Individual,3,Electronics,1093.1,3279.3,0,3279.3,1,5.0,6,2
+358,2023-06-27,Printer,East,Credit Card,Individual,2,Peripherals,238.3,476.6,5,452.77,2,,6,2
+638,2023-06-28,Headphones,South,PayPal,Corporate,1,Accessories,131.12,131.12,0,131.12,8,3.0,6,2
+359,2023-06-29,Laptop,West,PayPal,Educational,2,Electronics,1317.68,2635.36,0,2635.36,10,,6,2
+624,2023-06-29,Smartphone,East,Credit Card,Individual,5,Electronics,832.1,4160.5,0,4160.5,6,1.0,6,2
+388,2023-06-29,Headphones,North,Debit Card,Corporate,4,Accessories,111.25,445.0,0,445.0,7,4.0,6,2
+296,2023-06-30,Monitor,Central,Bank Transfer,Individual,5,Electronics,306.71,1533.55,10,1380.2,2,4.0,6,2
+475,2023-06-30,Tablet,East,Bank Transfer,Educational,2,Electronics,536.61,1073.22,0,1073.22,9,4.0,6,2
+541,2023-07-01,Headphones,West,Debit Card,Corporate,4,Accessories,131.17,524.68,20,419.74,1,2.0,7,3
+605,2023-07-01,Headphones,North,Debit Card,Educational,3,Accessories,112.25,336.75,0,336.75,7,3.0,7,3
+108,2023-07-02,Monitor,Central,Credit Card,Educational,3,Electronics,276.7,830.1,20,664.08,7,,7,3
+579,2023-07-02,Smartphone,East,Bank Transfer,Educational,5,Electronics,866.94,4334.7,15,3684.5,5,3.0,7,3
+782,2023-07-02,Tablet,East,Bank Transfer,Individual,2,Electronics,505.47,1010.94,15,859.3,3,4.0,7,3
+574,2023-07-02,Smartphone,East,PayPal,Individual,1,Electronics,809.05,809.05,0,809.05,1,1.0,7,3
+835,2023-07-03,Laptop,North,Bank Transfer,Corporate,4,Electronics,1109.59,4438.36,0,4438.36,7,5.0,7,3
+236,2023-07-03,Monitor,West,Credit Card,Individual,4,Electronics,326.3,1305.2,15,1109.42,9,3.0,7,3
+485,2023-07-03,Keyboard,Central,PayPal,Corporate,3,Accessories,86.95,260.85,0,260.85,4,1.0,7,3
+547,2023-07-04,Keyboard,South,Bank Transfer,Individual,3,Accessories,73.11,219.33,20,175.46,6,,7,3
+848,2023-07-04,Smartphone,Central,Bank Transfer,Individual,2,Electronics,822.69,1645.38,0,1645.38,2,,7,3
+352,2023-07-05,Laptop,East,PayPal,Corporate,1,Electronics,1162.99,1162.99,10,1046.69,5,1.0,7,3
+53,2023-07-05,Tablet,Central,PayPal,Individual,2,Electronics,529.59,1059.18,0,1059.18,10,1.0,7,3
+375,2023-07-05,Laptop,West,Debit Card,Individual,2,Electronics,1261.75,2523.5,0,2523.5,2,5.0,7,3
+221,2023-07-06,Tablet,West,Credit Card,Corporate,4,Electronics,507.69,2030.76,0,2030.76,6,1.0,7,3
+112,2023-07-06,Headphones,East,Cash,Educational,1,Accessories,117.11,117.11,0,117.11,7,1.0,7,3
+537,2023-07-06,Printer,East,Debit Card,Educational,5,Peripherals,252.41,1262.05,0,1262.05,4,2.0,7,3
+794,2023-07-07,Monitor,East,Debit Card,Educational,1,Electronics,281.09,281.09,15,238.93,5,2.0,7,3
+552,2023-07-07,Monitor,East,Credit Card,Educational,4,Electronics,294.4,1177.6,15,1000.96,3,5.0,7,3
+128,2023-07-07,Laptop,East,Credit Card,Individual,4,Electronics,1136.26,4545.04,15,3863.28,7,1.0,7,3
+951,2023-07-07,Tablet,East,Cash,Individual,3,Electronics,502.14,1506.42,0,1506.42,10,2.0,7,3
+102,2023-07-08,Smartphone,South,Credit Card,Educational,1,Electronics,745.71,745.71,0,745.71,10,1.0,7,3
+812,2023-07-09,Tablet,East,Cash,Individual,5,Electronics,533.91,2669.55,0,2669.55,6,1.0,7,3
+990,2023-07-09,Printer,North,Debit Card,Educational,4,Peripherals,253.23,1012.92,0,1012.92,2,1.0,7,3
+362,2023-07-10,Laptop,South,Credit Card,Corporate,1,Electronics,1238.28,1238.28,15,1052.54,4,2.0,7,3
+82,2023-07-10,Monitor,West,Debit Card,Educational,4,Electronics,295.8,1183.2,0,1183.2,5,2.0,7,3
+153,2023-07-10,Laptop,South,Debit Card,Educational,5,Electronics,1186.27,5931.35,5,5634.78,7,,7,3
+204,2023-07-11,Laptop,South,Cash,Educational,3,Electronics,1107.98,3323.94,10,2991.55,8,3.0,7,3
+842,2023-07-11,Printer,West,PayPal,Educational,2,Peripherals,232.13,464.26,0,464.26,6,,7,3
+620,2023-07-12,Tablet,West,Credit Card,Educational,3,Electronics,513.24,1539.72,5,1462.73,10,,7,3
+478,2023-07-12,Printer,West,Cash,Corporate,1,Peripherals,255.97,255.97,0,255.97,1,4.0,7,3
+996,2023-07-13,Keyboard,West,Credit Card,Individual,5,Accessories,76.6,383.0,15,325.55,3,4.0,7,3
+577,2023-07-13,Keyboard,Central,Debit Card,Corporate,3,Accessories,73.51,220.53,0,220.53,3,2.0,7,3
+381,2023-07-13,Printer,East,Bank Transfer,Corporate,2,Peripherals,258.09,516.18,10,464.56,3,5.0,7,3
+212,2023-07-13,Headphones,Central,Bank Transfer,Individual,5,Accessories,121.6,608.0,0,608.0,1,3.0,7,3
+825,2023-07-13,Printer,North,Credit Card,Educational,5,Peripherals,234.26,1171.3,0,1171.3,6,3.0,7,3
+143,2023-07-13,Monitor,South,Bank Transfer,Educational,4,Electronics,286.9,1147.6,0,1147.6,1,4.0,7,3
+415,2023-07-13,Tablet,East,PayPal,Individual,3,Electronics,533.24,1599.72,5,1519.73,3,,7,3
+292,2023-07-13,Tablet,East,Bank Transfer,Educational,1,Electronics,505.07,505.07,0,505.07,2,2.0,7,3
+592,2023-07-14,Printer,West,Credit Card,Educational,5,Peripherals,267.56,1337.8,10,1204.02,7,1.0,7,3
+652,2023-07-14,Printer,North,Cash,Individual,3,Peripherals,249.91,749.73,5,712.24,9,4.0,7,3
+639,2023-07-14,Smartphone,North,Bank Transfer,Individual,5,Electronics,737.29,3686.45,15,3133.48,10,4.0,7,3
+172,2023-07-15,Keyboard,South,Debit Card,Educational,3,Accessories,84.02,252.06,5,239.46,5,3.0,7,3
+896,2023-07-16,Monitor,South,Debit Card,Corporate,1,Electronics,301.18,301.18,0,301.18,10,3.0,7,3
+949,2023-07-16,Mouse,West,Bank Transfer,Educational,2,Accessories,50.51,101.02,0,101.02,7,4.0,7,3
+832,2023-07-16,Keyboard,East,PayPal,Educational,5,Accessories,73.24,366.2,0,366.2,9,5.0,7,3
+833,2023-07-16,Tablet,Central,Credit Card,Educational,3,Electronics,466.99,1400.97,15,1190.82,6,,7,3
+755,2023-07-16,Smartphone,East,Debit Card,Corporate,3,Electronics,812.9,2438.7,15,2072.9,4,3.0,7,3
+523,2023-07-17,Mouse,North,Bank Transfer,Individual,2,Accessories,53.49,106.98,10,96.28,10,,7,3
+837,2023-07-17,Tablet,South,Credit Card,Individual,3,Electronics,474.58,1423.74,20,1138.99,4,1.0,7,3
+558,2023-07-17,Mouse,North,Cash,Educational,5,Accessories,54.0,270.0,5,256.5,4,2.0,7,3
+898,2023-07-17,Monitor,West,Credit Card,Educational,2,Electronics,278.11,556.22,0,556.22,5,,7,3
+885,2023-07-17,Printer,West,Cash,Individual,5,Peripherals,246.0,1230.0,0,1230.0,8,4.0,7,3
+499,2023-07-17,Laptop,Central,Debit Card,Corporate,4,Electronics,1287.73,5150.92,15,4378.28,6,2.0,7,3
+104,2023-07-18,Monitor,West,Bank Transfer,Educational,4,Electronics,296.94,1187.76,15,1009.6,8,1.0,7,3
+75,2023-07-18,Keyboard,North,Debit Card,Corporate,5,Accessories,75.81,379.05,0,379.05,2,,7,3
+445,2023-07-18,Monitor,East,Bank Transfer,Educational,3,Electronics,272.08,816.24,20,652.99,9,,7,3
+339,2023-07-19,Monitor,Central,Debit Card,Educational,5,Electronics,320.65,1603.25,0,1603.25,2,1.0,7,3
+760,2023-07-19,Headphones,East,Bank Transfer,Educational,2,Accessories,130.81,261.62,0,261.62,2,1.0,7,3
+656,2023-07-19,Keyboard,Central,PayPal,Corporate,5,Accessories,81.82,409.1,0,409.1,7,4.0,7,3
+743,2023-07-20,Smartphone,East,Cash,Educational,3,Electronics,852.58,2557.74,0,2557.74,1,1.0,7,3
+343,2023-07-20,Tablet,Central,Bank Transfer,Individual,1,Electronics,507.3,507.3,0,507.3,6,,7,3
+327,2023-07-20,Tablet,West,Debit Card,Individual,4,Electronics,517.74,2070.96,0,2070.96,6,2.0,7,3
+177,2023-07-21,Tablet,West,Debit Card,Educational,5,Electronics,525.7,2628.5,15,2234.22,7,3.0,7,3
+887,2023-07-21,Laptop,West,Cash,Individual,5,Electronics,1279.83,6399.15,15,5439.28,6,5.0,7,3
+792,2023-07-24,Printer,South,Bank Transfer,Individual,4,Peripherals,256.28,1025.12,0,1025.12,7,4.0,7,3
+448,2023-07-24,Mouse,East,Credit Card,Individual,4,Accessories,46.93,187.72,10,168.95,10,1.0,7,3
+2,2023-07-25,Monitor,North,Debit Card,Individual,5,Electronics,310.03,1550.15,0,1550.15,10,4.0,7,3
+512,2023-07-27,Smartphone,West,Bank Transfer,Individual,4,Electronics,764.15,3056.6,0,3056.6,2,5.0,7,3
+299,2023-07-28,Keyboard,South,Cash,Corporate,3,Accessories,73.69,221.07,0,221.07,3,3.0,7,3
+962,2023-07-28,Laptop,Central,Bank Transfer,Educational,4,Electronics,1299.13,5196.52,15,4417.04,2,5.0,7,3
+11,2023-07-29,Tablet,Central,Credit Card,Individual,5,Electronics,469.52,2347.6,10,2112.84,4,,7,3
+525,2023-07-31,Smartphone,South,Debit Card,Individual,5,Electronics,837.46,4187.3,5,3977.94,6,5.0,7,3
+79,2023-07-31,Headphones,South,Debit Card,Individual,3,Accessories,126.25,378.75,15,321.94,7,1.0,7,3
+969,2023-07-31,Mouse,South,Bank Transfer,Individual,3,Accessories,50.55,151.65,5,144.07,6,1.0,7,3
+433,2023-07-31,Keyboard,West,Credit Card,Corporate,2,Accessories,80.48,160.96,5,152.91,10,3.0,7,3
+891,2023-08-03,Headphones,East,Cash,Individual,1,Accessories,124.61,124.61,15,105.92,1,,8,3
+1,2023-08-03,Headphones,North,Debit Card,Educational,2,Accessories,121.78,243.56,10,219.2,7,,8,3
+441,2023-08-03,Laptop,Central,Cash,Educational,3,Electronics,1166.66,3499.98,5,3324.98,4,,8,3
+309,2023-08-04,Printer,East,Bank Transfer,Individual,2,Peripherals,227.1,454.2,15,386.07,1,2.0,8,3
+140,2023-08-04,Laptop,South,Bank Transfer,Individual,5,Electronics,1292.37,6461.85,15,5492.57,9,5.0,8,3
+709,2023-08-04,Printer,East,Bank Transfer,Corporate,3,Peripherals,255.09,765.27,0,765.27,10,,8,3
+384,2023-08-04,Keyboard,Central,PayPal,Educational,5,Accessories,75.74,378.7,5,359.76,10,2.0,8,3
+918,2023-08-05,Monitor,East,Bank Transfer,Individual,4,Electronics,304.22,1216.88,15,1034.35,8,,8,3
+379,2023-08-05,Smartphone,Central,PayPal,Individual,4,Electronics,736.04,2944.16,15,2502.54,2,1.0,8,3
+149,2023-08-06,Laptop,North,PayPal,Corporate,4,Electronics,1317.63,5270.52,0,5270.52,7,,8,3
+111,2023-08-06,Printer,East,Credit Card,Educational,2,Peripherals,233.67,467.34,0,467.34,6,5.0,8,3
+470,2023-08-06,Monitor,East,Cash,Corporate,5,Electronics,329.31,1646.55,15,1399.57,9,1.0,8,3
+133,2023-08-07,Laptop,South,Cash,Individual,1,Electronics,1303.97,1303.97,0,1303.97,4,3.0,8,3
+814,2023-08-08,Monitor,Central,Credit Card,Individual,4,Electronics,300.34,1201.36,5,1141.29,10,4.0,8,3
+270,2023-08-08,Tablet,West,Credit Card,Educational,1,Electronics,480.33,480.33,0,480.33,1,4.0,8,3
+526,2023-08-08,Headphones,Central,Bank Transfer,Corporate,4,Accessories,116.19,464.76,15,395.05,5,5.0,8,3
+280,2023-08-09,Smartphone,North,PayPal,Individual,4,Electronics,825.03,3300.12,15,2805.1,8,1.0,8,3
+192,2023-08-09,Tablet,Central,Bank Transfer,Corporate,1,Electronics,484.21,484.21,20,387.37,9,4.0,8,3
+622,2023-08-09,Smartphone,Central,Cash,Educational,2,Electronics,812.56,1625.12,0,1625.12,4,5.0,8,3
+434,2023-08-10,Printer,Central,Cash,Corporate,4,Peripherals,233.07,932.28,0,932.28,6,,8,3
+495,2023-08-10,Keyboard,West,Cash,Educational,5,Accessories,76.71,383.55,20,306.84,5,4.0,8,3
+427,2023-08-10,Laptop,North,Bank Transfer,Corporate,4,Electronics,1260.59,5042.36,0,5042.36,9,2.0,8,3
+588,2023-08-10,Tablet,West,Debit Card,Corporate,5,Electronics,485.66,2428.3,0,2428.3,5,5.0,8,3
+723,2023-08-11,Monitor,East,Cash,Corporate,1,Electronics,290.73,290.73,0,290.73,1,5.0,8,3
+224,2023-08-12,Monitor,West,Bank Transfer,Educational,1,Electronics,328.83,328.83,10,295.95,8,1.0,8,3
+855,2023-08-12,Headphones,Central,Bank Transfer,Individual,3,Accessories,110.36,331.08,10,297.97,3,3.0,8,3
+886,2023-08-12,Keyboard,Central,Credit Card,Educational,4,Accessories,81.25,325.0,0,325.0,5,3.0,8,3
+576,2023-08-13,Mouse,Central,Bank Transfer,Educational,5,Accessories,46.35,231.75,15,196.99,1,1.0,8,3
+635,2023-08-13,Smartphone,North,Credit Card,Individual,5,Electronics,855.99,4279.95,0,4279.95,9,2.0,8,3
+677,2023-08-13,Monitor,North,Credit Card,Individual,3,Electronics,315.38,946.14,0,946.14,8,1.0,8,3
+756,2023-08-13,Mouse,West,Debit Card,Corporate,3,Accessories,54.36,163.08,15,138.62,5,,8,3
+752,2023-08-14,Keyboard,Central,Credit Card,Corporate,2,Accessories,72.64,145.28,5,138.02,4,4.0,8,3
+97,2023-08-14,Smartphone,Central,Cash,Individual,2,Electronics,728.04,1456.08,0,1456.08,5,,8,3
+170,2023-08-14,Mouse,Central,Cash,Corporate,4,Accessories,49.71,198.84,10,178.96,2,5.0,8,3
+826,2023-08-14,Monitor,Central,Debit Card,Individual,5,Electronics,302.48,1512.4,10,1361.16,10,5.0,8,3
+420,2023-08-14,Mouse,North,PayPal,Individual,2,Accessories,54.3,108.6,0,108.6,6,1.0,8,3
+646,2023-08-15,Keyboard,South,Credit Card,Educational,5,Accessories,81.37,406.85,0,406.85,7,5.0,8,3
+442,2023-08-15,Printer,North,Cash,Educational,2,Peripherals,245.42,490.84,10,441.76,7,,8,3
+402,2023-08-15,Monitor,North,Credit Card,Corporate,3,Electronics,272.42,817.26,20,653.81,3,4.0,8,3
+257,2023-08-15,Headphones,South,PayPal,Educational,3,Accessories,127.34,382.02,20,305.62,3,2.0,8,3
+301,2023-08-17,Laptop,Central,Bank Transfer,Corporate,4,Electronics,1179.16,4716.64,0,4716.64,1,3.0,8,3
+302,2023-08-17,Laptop,North,Cash,Individual,3,Electronics,1242.2,3726.6,5,3540.27,1,5.0,8,3
+769,2023-08-17,Monitor,Central,Debit Card,Educational,4,Electronics,292.86,1171.44,10,1054.3,5,3.0,8,3
+321,2023-08-18,Printer,North,Cash,Individual,1,Peripherals,270.82,270.82,0,270.82,8,1.0,8,3
+399,2023-08-18,Printer,North,Credit Card,Individual,1,Peripherals,225.57,225.57,15,191.73,5,4.0,8,3
+432,2023-08-18,Mouse,West,Cash,Individual,1,Accessories,48.95,48.95,0,48.95,4,5.0,8,3
+244,2023-08-18,Laptop,South,Cash,Individual,1,Electronics,1092.66,1092.66,15,928.76,2,2.0,8,3
+206,2023-08-19,Keyboard,East,Credit Card,Educational,4,Accessories,86.44,345.76,0,345.76,1,1.0,8,3
+618,2023-08-19,Printer,East,Credit Card,Educational,1,Peripherals,240.76,240.76,0,240.76,9,3.0,8,3
+168,2023-08-19,Headphones,East,Cash,Individual,1,Accessories,120.04,120.04,0,120.04,5,3.0,8,3
+781,2023-08-19,Laptop,North,PayPal,Corporate,5,Electronics,1271.95,6359.75,10,5723.78,10,5.0,8,3
+854,2023-08-19,Tablet,West,Credit Card,Corporate,3,Electronics,467.71,1403.13,5,1332.97,2,1.0,8,3
+459,2023-08-20,Tablet,South,Credit Card,Corporate,1,Electronics,517.31,517.31,10,465.58,5,1.0,8,3
+609,2023-08-20,Monitor,East,Cash,Corporate,2,Electronics,322.42,644.84,10,580.36,3,,8,3
+693,2023-08-21,Keyboard,East,Debit Card,Educational,2,Accessories,77.68,155.36,0,155.36,10,4.0,8,3
+272,2023-08-21,Printer,South,Bank Transfer,Individual,3,Peripherals,230.93,692.79,0,692.79,7,1.0,8,3
+694,2023-08-21,Monitor,West,Credit Card,Corporate,5,Electronics,294.04,1470.2,10,1323.18,3,3.0,8,3
+332,2023-08-21,Laptop,South,Credit Card,Educational,4,Electronics,1279.9,5119.6,0,5119.6,3,1.0,8,3
+748,2023-08-22,Headphones,North,Credit Card,Corporate,5,Accessories,129.0,645.0,10,580.5,4,4.0,8,3
+372,2023-08-22,Printer,Central,Bank Transfer,Corporate,3,Peripherals,233.01,699.03,0,699.03,6,2.0,8,3
+416,2023-08-22,Laptop,North,Debit Card,Corporate,3,Electronics,1273.36,3820.08,10,3438.07,8,1.0,8,3
+977,2023-08-23,Printer,East,Bank Transfer,Corporate,5,Peripherals,235.7,1178.5,15,1001.72,3,,8,3
+265,2023-08-23,Tablet,North,Debit Card,Individual,3,Electronics,488.1,1464.3,10,1317.87,9,2.0,8,3
+908,2023-08-24,Tablet,West,PayPal,Corporate,4,Electronics,485.54,1942.16,5,1845.05,9,5.0,8,3
+293,2023-08-24,Laptop,South,Bank Transfer,Corporate,3,Electronics,1176.77,3530.31,0,3530.31,10,2.0,8,3
+315,2023-08-24,Tablet,Central,Debit Card,Corporate,3,Electronics,500.24,1500.72,10,1350.65,6,4.0,8,3
+667,2023-08-24,Mouse,Central,Cash,Educational,3,Accessories,48.59,145.77,15,123.9,2,,8,3
+273,2023-08-24,Printer,Central,Debit Card,Individual,2,Peripherals,271.69,543.38,0,543.38,2,1.0,8,3
+15,2023-08-24,Printer,North,Debit Card,Individual,2,Peripherals,249.16,498.32,5,473.4,10,3.0,8,3
+802,2023-08-24,Mouse,Central,Bank Transfer,Educational,4,Accessories,49.42,197.68,15,168.03,9,4.0,8,3
+476,2023-08-24,Printer,East,Cash,Individual,3,Peripherals,239.47,718.41,20,574.73,7,5.0,8,3
+632,2023-08-25,Monitor,West,Debit Card,Corporate,5,Electronics,287.07,1435.35,0,1435.35,6,5.0,8,3
+450,2023-08-27,Mouse,South,Cash,Corporate,5,Accessories,47.6,238.0,15,202.3,9,,8,3
+144,2023-08-27,Printer,Central,Credit Card,Individual,5,Peripherals,273.17,1365.85,0,1365.85,7,5.0,8,3
+367,2023-08-27,Mouse,West,Cash,Individual,1,Accessories,51.23,51.23,15,43.55,7,4.0,8,3
+700,2023-08-27,Tablet,North,Debit Card,Educational,5,Electronics,494.2,2471.0,10,2223.9,6,1.0,8,3
+929,2023-08-28,Mouse,Central,Debit Card,Individual,3,Accessories,52.35,157.05,10,141.35,1,2.0,8,3
+582,2023-08-28,Laptop,East,Bank Transfer,Corporate,4,Electronics,1176.49,4705.96,10,4235.36,10,3.0,8,3
+847,2023-08-28,Smartphone,South,Cash,Educational,5,Electronics,827.27,4136.35,5,3929.53,3,1.0,8,3
+85,2023-08-28,Headphones,South,Debit Card,Corporate,5,Accessories,126.47,632.35,0,632.35,5,1.0,8,3
+264,2023-08-29,Laptop,North,Debit Card,Corporate,5,Electronics,1133.1,5665.5,10,5098.95,4,3.0,8,3
+139,2023-08-30,Headphones,West,PayPal,Corporate,2,Accessories,130.73,261.46,20,209.17,2,3.0,8,3
+722,2023-08-31,Tablet,West,Credit Card,Educational,4,Electronics,507.7,2030.8,0,2030.8,10,3.0,8,3
+818,2023-08-31,Tablet,North,Debit Card,Educational,3,Electronics,506.6,1519.8,10,1367.82,9,2.0,8,3
+911,2023-08-31,Tablet,East,Cash,Individual,2,Electronics,491.84,983.68,0,983.68,8,1.0,8,3
+243,2023-08-31,Monitor,North,Credit Card,Individual,1,Electronics,273.02,273.02,10,245.72,4,5.0,8,3
+387,2023-09-01,Tablet,North,Cash,Corporate,1,Electronics,547.47,547.47,0,547.47,1,3.0,9,3
+787,2023-09-01,Headphones,North,Cash,Individual,5,Accessories,117.94,589.7,0,589.7,3,3.0,9,3
+36,2023-09-01,Keyboard,North,Debit Card,Individual,3,Accessories,81.13,243.39,5,231.22,10,3.0,9,3
+997,2023-09-02,Laptop,South,Debit Card,Corporate,2,Electronics,1291.14,2582.28,5,2453.17,6,,9,3
+747,2023-09-03,Tablet,North,Debit Card,Corporate,2,Electronics,462.43,924.86,15,786.13,8,1.0,9,3
+458,2023-09-04,Printer,East,Debit Card,Individual,3,Peripherals,266.3,798.9,0,798.9,7,5.0,9,3
+750,2023-09-04,Smartphone,East,Bank Transfer,Corporate,2,Electronics,748.34,1496.68,15,1272.18,5,3.0,9,3
+256,2023-09-04,Tablet,West,Debit Card,Individual,2,Electronics,486.26,972.52,10,875.27,2,4.0,9,3
+544,2023-09-05,Smartphone,North,PayPal,Educational,3,Electronics,812.3,2436.9,0,2436.9,1,,9,3
+923,2023-09-05,Laptop,East,Bank Transfer,Individual,4,Electronics,1267.25,5069.0,0,5069.0,7,5.0,9,3
+775,2023-09-08,Smartphone,East,Debit Card,Individual,3,Electronics,790.81,2372.43,20,1897.94,2,,9,3
+793,2023-09-08,Keyboard,West,Bank Transfer,Educational,4,Accessories,81.15,324.6,20,259.68,3,3.0,9,3
+737,2023-09-08,Monitor,West,Bank Transfer,Educational,4,Electronics,315.31,1261.24,20,1008.99,4,3.0,9,3
+868,2023-09-09,Mouse,South,Bank Transfer,Educational,5,Accessories,54.22,271.1,20,216.88,2,1.0,9,3
+617,2023-09-09,Laptop,West,Credit Card,Educational,1,Electronics,1243.73,1243.73,5,1181.54,9,1.0,9,3
+80,2023-09-09,Monitor,East,Debit Card,Educational,5,Electronics,279.27,1396.35,0,1396.35,2,3.0,9,3
+776,2023-09-10,Keyboard,North,Bank Transfer,Corporate,3,Accessories,72.77,218.31,10,196.48,4,3.0,9,3
+701,2023-09-10,Smartphone,West,Credit Card,Educational,3,Electronics,823.72,2471.16,0,2471.16,9,5.0,9,3
+944,2023-09-10,Keyboard,West,Debit Card,Individual,4,Accessories,87.06,348.24,0,348.24,1,2.0,9,3
+69,2023-09-10,Monitor,South,Cash,Corporate,5,Electronics,275.63,1378.15,5,1309.24,3,4.0,9,3
+89,2023-09-10,Monitor,South,Bank Transfer,Corporate,3,Electronics,271.83,815.49,0,815.49,7,2.0,9,3
+360,2023-09-10,Tablet,South,Cash,Corporate,5,Electronics,452.58,2262.9,0,2262.9,10,4.0,9,3
+995,2023-09-10,Monitor,Central,Cash,Educational,2,Electronics,313.21,626.42,10,563.78,2,4.0,9,3
+201,2023-09-11,Headphones,Central,Credit Card,Corporate,5,Accessories,122.31,611.55,0,611.55,4,1.0,9,3
+680,2023-09-11,Smartphone,North,Debit Card,Educational,1,Electronics,869.56,869.56,5,826.08,1,,9,3
+862,2023-09-11,Laptop,West,Debit Card,Individual,3,Electronics,1103.27,3309.81,5,3144.32,7,4.0,9,3
+863,2023-09-11,Smartphone,Central,PayPal,Educational,3,Electronics,748.65,2245.95,0,2245.95,9,3.0,9,3
+614,2023-09-11,Smartphone,South,Bank Transfer,Educational,3,Electronics,768.92,2306.76,0,2306.76,8,,9,3
+289,2023-09-12,Laptop,Central,PayPal,Individual,3,Electronics,1238.83,3716.49,20,2973.19,3,2.0,9,3
+717,2023-09-12,Tablet,Central,Bank Transfer,Educational,4,Electronics,470.88,1883.52,0,1883.52,7,,9,3
+571,2023-09-12,Mouse,East,Bank Transfer,Educational,1,Accessories,52.29,52.29,0,52.29,4,5.0,9,3
+932,2023-09-12,Monitor,North,PayPal,Corporate,3,Electronics,277.99,833.97,0,833.97,10,1.0,9,3
+468,2023-09-12,Laptop,North,Cash,Individual,1,Electronics,1318.22,1318.22,10,1186.4,2,,9,3
+121,2023-09-12,Printer,East,PayPal,Individual,4,Peripherals,271.46,1085.84,10,977.26,1,2.0,9,3
+668,2023-09-13,Monitor,South,Credit Card,Educational,4,Electronics,324.68,1298.72,5,1233.78,10,3.0,9,3
+245,2023-09-13,Headphones,Central,Debit Card,Educational,3,Accessories,124.61,373.83,0,373.83,5,,9,3
+999,2023-09-14,Printer,South,PayPal,Corporate,5,Peripherals,236.55,1182.75,20,946.2,10,3.0,9,3
+670,2023-09-15,Headphones,Central,Credit Card,Individual,1,Accessories,115.58,115.58,15,98.24,2,3.0,9,3
+73,2023-09-16,Laptop,Central,Credit Card,Individual,2,Electronics,1149.95,2299.9,15,1954.92,6,3.0,9,3
+629,2023-09-16,Headphones,South,Bank Transfer,Individual,1,Accessories,122.86,122.86,5,116.72,9,,9,3
+631,2023-09-16,Laptop,North,PayPal,Educational,5,Electronics,1086.17,5430.85,20,4344.68,6,4.0,9,3
+604,2023-09-16,Mouse,North,Cash,Educational,4,Accessories,45.97,183.88,0,183.88,5,2.0,9,3
+554,2023-09-16,Monitor,East,Cash,Educational,4,Electronics,312.88,1251.52,0,1251.52,7,1.0,9,3
+453,2023-09-17,Mouse,South,Bank Transfer,Individual,3,Accessories,47.97,143.91,0,143.91,3,4.0,9,3
+912,2023-09-17,Keyboard,North,Debit Card,Educational,5,Accessories,77.72,388.6,0,388.6,9,4.0,9,3
+173,2023-09-17,Tablet,East,PayPal,Corporate,5,Electronics,525.39,2626.95,20,2101.56,7,4.0,9,3
+277,2023-09-18,Laptop,West,PayPal,Corporate,1,Electronics,1194.14,1194.14,5,1134.43,1,,9,3
+78,2023-09-18,Monitor,Central,Cash,Educational,2,Electronics,297.98,595.96,20,476.77,9,,9,3
+58,2023-09-18,Laptop,Central,Cash,Educational,2,Electronics,1289.78,2579.56,15,2192.63,1,3.0,9,3
+254,2023-09-18,Keyboard,Central,PayPal,Individual,1,Accessories,79.64,79.64,0,79.64,9,4.0,9,3
+52,2023-09-19,Mouse,North,Debit Card,Corporate,5,Accessories,53.45,267.25,0,267.25,10,4.0,9,3
+873,2023-09-19,Smartphone,North,Bank Transfer,Corporate,4,Electronics,878.8,3515.2,15,2987.92,8,4.0,9,3
+653,2023-09-19,Headphones,East,Bank Transfer,Corporate,5,Accessories,124.54,622.7,0,622.7,9,1.0,9,3
+589,2023-09-19,Monitor,West,Bank Transfer,Corporate,4,Electronics,285.27,1141.08,5,1084.03,3,2.0,9,3
+29,2023-09-21,Printer,North,Debit Card,Educational,3,Peripherals,249.48,748.44,10,673.6,1,5.0,9,3
+33,2023-09-21,Monitor,Central,Credit Card,Educational,4,Electronics,292.33,1169.32,20,935.46,4,,9,3
+129,2023-09-22,Monitor,Central,Credit Card,Educational,4,Electronics,290.71,1162.84,0,1162.84,8,3.0,9,3
+105,2023-09-22,Smartphone,West,Credit Card,Corporate,4,Electronics,758.0,3032.0,10,2728.8,3,1.0,9,3
+165,2023-09-22,Smartphone,East,Credit Card,Corporate,1,Electronics,744.08,744.08,0,744.08,3,4.0,9,3
+869,2023-09-23,Headphones,West,Cash,Corporate,3,Accessories,109.75,329.25,0,329.25,5,1.0,9,3
+597,2023-09-23,Keyboard,East,Bank Transfer,Educational,1,Accessories,80.78,80.78,10,72.7,10,5.0,9,3
+374,2023-09-23,Printer,North,Credit Card,Educational,2,Peripherals,245.91,491.82,20,393.46,3,4.0,9,3
+117,2023-09-24,Laptop,West,Credit Card,Educational,4,Electronics,1265.47,5061.88,5,4808.79,4,5.0,9,3
+938,2023-09-24,Keyboard,North,Bank Transfer,Individual,5,Accessories,72.1,360.5,15,306.42,1,2.0,9,3
+307,2023-09-24,Monitor,South,Debit Card,Educational,4,Electronics,279.41,1117.64,5,1061.76,3,,9,3
+679,2023-09-25,Smartphone,South,Credit Card,Individual,5,Electronics,785.96,3929.8,20,3143.84,1,3.0,9,3
+985,2023-09-25,Printer,South,PayPal,Educational,4,Peripherals,271.64,1086.56,0,1086.56,10,2.0,9,3
+945,2023-09-25,Keyboard,East,Credit Card,Educational,5,Accessories,74.79,373.95,20,299.16,2,1.0,9,3
+465,2023-09-27,Monitor,West,Credit Card,Educational,1,Electronics,310.28,310.28,0,310.28,3,1.0,9,3
+708,2023-09-28,Printer,North,Credit Card,Corporate,4,Peripherals,248.87,995.48,5,945.71,3,3.0,9,3
+699,2023-09-28,Smartphone,West,Cash,Individual,2,Electronics,825.55,1651.1,5,1568.54,3,5.0,9,3
+991,2023-09-29,Smartphone,North,Credit Card,Corporate,1,Electronics,826.08,826.08,5,784.78,9,4.0,9,3
+320,2023-09-29,Mouse,Central,Debit Card,Individual,1,Accessories,54.34,54.34,10,48.91,2,1.0,9,3
+892,2023-09-29,Headphones,East,Debit Card,Corporate,2,Accessories,111.36,222.72,10,200.45,4,,9,3
+354,2023-09-29,Printer,West,Debit Card,Corporate,2,Peripherals,265.27,530.54,15,450.96,10,,9,3
+125,2023-09-29,Keyboard,Central,Bank Transfer,Educational,2,Accessories,85.23,170.46,10,153.41,8,3.0,9,3
+864,2023-09-29,Smartphone,Central,Debit Card,Individual,2,Electronics,847.6,1695.2,15,1440.92,2,1.0,9,3
+650,2023-10-01,Keyboard,South,Credit Card,Corporate,3,Accessories,85.12,255.36,5,242.59,10,,10,4
+312,2023-10-01,Headphones,East,Credit Card,Corporate,5,Accessories,129.1,645.5,0,645.5,1,4.0,10,4
+167,2023-10-01,Printer,East,PayPal,Individual,4,Peripherals,247.34,989.36,20,791.49,9,2.0,10,4
+461,2023-10-01,Smartphone,East,Debit Card,Educational,2,Electronics,783.52,1567.04,15,1331.98,10,3.0,10,4
+965,2023-10-01,Headphones,Central,Debit Card,Educational,3,Accessories,114.45,343.35,20,274.68,10,3.0,10,4
+601,2023-10-02,Keyboard,South,Cash,Individual,3,Accessories,75.84,227.52,10,204.77,8,4.0,10,4
+658,2023-10-02,Tablet,West,PayPal,Corporate,2,Electronics,530.99,1061.98,20,849.58,10,5.0,10,4
+805,2023-10-03,Mouse,South,Debit Card,Educational,3,Accessories,47.02,141.06,0,141.06,4,,10,4
+35,2023-10-03,Mouse,South,PayPal,Educational,4,Accessories,46.41,185.64,5,176.36,5,,10,4
+538,2023-10-03,Headphones,South,Credit Card,Corporate,5,Accessories,112.19,560.95,0,560.95,3,5.0,10,4
+219,2023-10-04,Printer,West,Credit Card,Educational,1,Peripherals,265.05,265.05,10,238.54,4,1.0,10,4
+291,2023-10-04,Laptop,East,Cash,Individual,1,Electronics,1165.12,1165.12,20,932.1,5,1.0,10,4
+809,2023-10-04,Mouse,South,Debit Card,Educational,2,Accessories,50.12,100.24,0,100.24,9,3.0,10,4
+968,2023-10-05,Mouse,South,PayPal,Individual,4,Accessories,48.06,192.24,0,192.24,10,,10,4
+109,2023-10-05,Mouse,South,PayPal,Corporate,1,Accessories,51.08,51.08,0,51.08,10,1.0,10,4
+271,2023-10-05,Mouse,West,Cash,Educational,1,Accessories,54.33,54.33,10,48.9,5,4.0,10,4
+393,2023-10-05,Printer,North,Credit Card,Educational,2,Peripherals,227.53,455.06,15,386.8,7,2.0,10,4
+779,2023-10-05,Printer,West,PayPal,Corporate,5,Peripherals,254.4,1272.0,20,1017.6,10,4.0,10,4
+347,2023-10-05,Tablet,East,Cash,Educational,5,Electronics,450.64,2253.2,0,2253.2,9,3.0,10,4
+850,2023-10-05,Mouse,North,Debit Card,Corporate,1,Accessories,49.9,49.9,5,47.4,10,5.0,10,4
+710,2023-10-05,Printer,Central,PayPal,Corporate,2,Peripherals,254.09,508.18,5,482.77,2,2.0,10,4
+808,2023-10-06,Laptop,East,Debit Card,Corporate,2,Electronics,1175.47,2350.94,0,2350.94,9,5.0,10,4
+584,2023-10-06,Smartphone,South,Debit Card,Educational,1,Electronics,844.77,844.77,0,844.77,10,,10,4
+607,2023-10-06,Headphones,North,Credit Card,Individual,2,Accessories,118.66,237.32,5,225.45,5,,10,4
+341,2023-10-06,Tablet,West,Debit Card,Individual,2,Electronics,501.41,1002.82,15,852.4,7,,10,4
+957,2023-10-07,Monitor,West,Debit Card,Educational,2,Electronics,323.44,646.88,5,614.54,6,3.0,10,4
+555,2023-10-07,Laptop,South,Credit Card,Educational,3,Electronics,1150.4,3451.2,0,3451.2,1,1.0,10,4
+51,2023-10-08,Headphones,East,Cash,Individual,3,Accessories,121.36,364.08,0,364.08,7,5.0,10,4
+378,2023-10-09,Laptop,East,Debit Card,Educational,2,Electronics,1174.34,2348.68,0,2348.68,5,,10,4
+67,2023-10-09,Monitor,East,Cash,Corporate,4,Electronics,297.5,1190.0,20,952.0,6,5.0,10,4
+46,2023-10-09,Monitor,Central,PayPal,Individual,2,Electronics,278.58,557.16,0,557.16,8,2.0,10,4
+154,2023-10-10,Tablet,West,Credit Card,Educational,4,Electronics,476.1,1904.4,20,1523.52,5,2.0,10,4
+561,2023-10-12,Monitor,Central,Cash,Individual,4,Electronics,310.78,1243.12,10,1118.81,2,4.0,10,4
+18,2023-10-12,Printer,South,PayPal,Corporate,3,Peripherals,267.99,803.97,15,683.37,8,1.0,10,4
+721,2023-10-12,Smartphone,West,PayPal,Educational,1,Electronics,859.51,859.51,0,859.51,1,1.0,10,4
+914,2023-10-12,Smartphone,West,PayPal,Individual,2,Electronics,812.09,1624.18,20,1299.34,5,5.0,10,4
+333,2023-10-12,Monitor,North,Debit Card,Educational,5,Electronics,302.42,1512.1,0,1512.1,2,1.0,10,4
+530,2023-10-13,Smartphone,West,Debit Card,Educational,4,Electronics,794.45,3177.8,0,3177.8,10,,10,4
+940,2023-10-13,Smartphone,Central,Credit Card,Educational,1,Electronics,765.7,765.7,10,689.13,5,2.0,10,4
+226,2023-10-13,Smartphone,East,Credit Card,Corporate,2,Electronics,730.76,1461.52,20,1169.22,2,,10,4
+44,2023-10-13,Printer,East,Debit Card,Corporate,3,Peripherals,273.5,820.5,20,656.4,4,2.0,10,4
+460,2023-10-14,Tablet,South,Bank Transfer,Corporate,1,Electronics,532.44,532.44,5,505.82,8,4.0,10,4
+902,2023-10-14,Monitor,North,Bank Transfer,Corporate,4,Electronics,279.52,1118.08,5,1062.18,6,,10,4
+921,2023-10-14,Keyboard,North,Cash,Educational,4,Accessories,72.4,289.6,20,231.68,2,1.0,10,4
+483,2023-10-14,Keyboard,West,PayPal,Educational,3,Accessories,85.61,256.83,0,256.83,2,,10,4
+211,2023-10-14,Headphones,Central,Bank Transfer,Corporate,5,Accessories,127.7,638.5,10,574.65,9,1.0,10,4
+396,2023-10-15,Monitor,North,Credit Card,Educational,3,Electronics,293.57,880.71,0,880.71,4,3.0,10,4
+159,2023-10-15,Laptop,West,Credit Card,Individual,2,Electronics,1169.4,2338.8,10,2104.92,3,4.0,10,4
+27,2023-10-15,Mouse,Central,Debit Card,Educational,5,Accessories,50.68,253.4,0,253.4,7,2.0,10,4
+992,2023-10-15,Monitor,North,Debit Card,Corporate,1,Electronics,310.74,310.74,5,295.2,2,,10,4
+507,2023-10-15,Printer,Central,PayPal,Educational,2,Peripherals,254.71,509.42,20,407.54,1,5.0,10,4
+888,2023-10-16,Mouse,Central,Credit Card,Corporate,1,Accessories,53.04,53.04,0,53.04,10,5.0,10,4
+124,2023-10-17,Headphones,South,Debit Card,Educational,1,Accessories,108.46,108.46,0,108.46,7,2.0,10,4
+13,2023-10-17,Tablet,East,Debit Card,Individual,5,Electronics,524.16,2620.8,5,2489.76,5,4.0,10,4
+287,2023-10-17,Laptop,East,Credit Card,Individual,3,Electronics,1227.07,3681.21,0,3681.21,9,2.0,10,4
+62,2023-10-17,Headphones,South,Bank Transfer,Individual,4,Accessories,128.9,515.6,15,438.26,8,3.0,10,4
+356,2023-10-18,Headphones,South,Debit Card,Educational,2,Accessories,117.61,235.22,0,235.22,7,3.0,10,4
+660,2023-10-18,Smartphone,South,Cash,Educational,1,Electronics,836.84,836.84,0,836.84,9,,10,4
+209,2023-10-18,Mouse,North,Credit Card,Individual,4,Accessories,51.59,206.36,5,196.04,10,,10,4
+350,2023-10-18,Headphones,South,Credit Card,Individual,2,Accessories,117.48,234.96,0,234.96,9,5.0,10,4
+66,2023-10-19,Smartphone,South,Cash,Corporate,3,Electronics,744.33,2232.99,5,2121.34,9,,10,4
+506,2023-10-19,Laptop,West,Cash,Individual,5,Electronics,1242.36,6211.8,0,6211.8,7,3.0,10,4
+290,2023-10-19,Printer,Central,PayPal,Individual,1,Peripherals,228.84,228.84,0,228.84,8,,10,4
+807,2023-10-19,Printer,Central,Cash,Individual,5,Peripherals,227.56,1137.8,0,1137.8,2,3.0,10,4
+828,2023-10-19,Smartphone,West,Credit Card,Individual,3,Electronics,727.29,2181.87,0,2181.87,10,,10,4
+247,2023-10-20,Laptop,West,PayPal,Corporate,1,Electronics,1134.37,1134.37,0,1134.37,7,1.0,10,4
+936,2023-10-20,Laptop,East,Cash,Educational,3,Electronics,1203.29,3609.87,15,3068.39,5,5.0,10,4
+210,2023-10-20,Keyboard,North,PayPal,Educational,1,Accessories,86.9,86.9,0,86.9,6,1.0,10,4
+956,2023-10-20,Tablet,West,Credit Card,Individual,2,Electronics,507.71,1015.42,0,1015.42,1,5.0,10,4
+676,2023-10-21,Keyboard,Central,Cash,Individual,5,Accessories,78.33,391.65,15,332.9,7,2.0,10,4
+720,2023-10-22,Monitor,North,PayPal,Corporate,5,Electronics,305.71,1528.55,5,1452.12,7,3.0,10,4
+651,2023-10-23,Headphones,Central,Bank Transfer,Corporate,1,Accessories,109.0,109.0,0,109.0,2,3.0,10,4
+599,2023-10-23,Monitor,North,Bank Transfer,Corporate,3,Electronics,306.43,919.29,0,919.29,6,,10,4
+496,2023-10-24,Headphones,South,Debit Card,Individual,3,Accessories,113.05,339.15,0,339.15,7,4.0,10,4
+824,2023-10-24,Headphones,Central,Credit Card,Individual,3,Accessories,109.06,327.18,5,310.82,10,1.0,10,4
+662,2023-10-24,Tablet,South,PayPal,Corporate,1,Electronics,514.1,514.1,5,488.4,3,3.0,10,4
+454,2023-10-24,Mouse,East,Cash,Individual,2,Accessories,47.3,94.6,0,94.6,3,,10,4
+820,2023-10-24,Laptop,East,Cash,Individual,2,Electronics,1213.89,2427.78,0,2427.78,7,1.0,10,4
+70,2023-10-24,Mouse,West,Debit Card,Individual,4,Accessories,49.86,199.44,20,159.55,6,3.0,10,4
+5,2023-10-24,Tablet,West,Credit Card,Educational,1,Electronics,481.39,481.39,10,433.25,7,4.0,10,4
+514,2023-10-25,Mouse,West,Bank Transfer,Individual,4,Accessories,47.26,189.04,20,151.23,5,1.0,10,4
+889,2023-10-25,Monitor,East,Cash,Corporate,3,Electronics,321.99,965.97,0,965.97,1,1.0,10,4
+148,2023-10-25,Tablet,North,Cash,Individual,3,Electronics,512.27,1536.81,0,1536.81,10,,10,4
+797,2023-10-25,Keyboard,South,Credit Card,Corporate,5,Accessories,84.22,421.1,0,421.1,10,1.0,10,4
+979,2023-10-25,Printer,North,Debit Card,Individual,5,Peripherals,245.02,1225.1,10,1102.59,7,1.0,10,4
+907,2023-10-25,Smartphone,South,Debit Card,Individual,4,Electronics,753.33,3013.32,0,3013.32,9,2.0,10,4
+305,2023-10-26,Smartphone,North,Cash,Individual,1,Electronics,783.24,783.24,20,626.59,3,4.0,10,4
+225,2023-10-26,Smartphone,North,Bank Transfer,Educational,3,Electronics,754.35,2263.05,20,1810.44,5,2.0,10,4
+469,2023-10-26,Keyboard,North,Debit Card,Individual,1,Accessories,74.5,74.5,0,74.5,6,3.0,10,4
+439,2023-10-27,Headphones,East,PayPal,Educational,2,Accessories,111.58,223.16,20,178.53,8,2.0,10,4
+655,2023-10-27,Mouse,East,Cash,Educational,5,Accessories,48.08,240.4,0,240.4,1,4.0,10,4
+608,2023-10-28,Printer,Central,Bank Transfer,Educational,1,Peripherals,251.59,251.59,10,226.43,8,1.0,10,4
+739,2023-10-28,Keyboard,Central,Credit Card,Individual,4,Accessories,85.26,341.04,0,341.04,7,1.0,10,4
+884,2023-10-29,Printer,East,Cash,Corporate,3,Peripherals,261.54,784.62,0,784.62,9,1.0,10,4
+954,2023-10-29,Monitor,North,Credit Card,Corporate,2,Electronics,271.35,542.7,20,434.16,6,3.0,10,4
+351,2023-10-29,Monitor,East,Debit Card,Educational,2,Electronics,313.7,627.4,10,564.66,10,,10,4
+101,2023-10-29,Headphones,North,Bank Transfer,Corporate,5,Accessories,128.14,640.7,15,544.6,7,4.0,10,4
+194,2023-10-30,Headphones,West,Debit Card,Individual,5,Accessories,127.94,639.7,15,543.74,5,4.0,10,4
+490,2023-10-31,Keyboard,East,Debit Card,Educational,3,Accessories,72.26,216.78,0,216.78,1,5.0,10,4
+920,2023-10-31,Printer,East,Debit Card,Educational,3,Peripherals,262.11,786.33,10,707.7,3,5.0,10,4
+989,2023-10-31,Smartphone,South,Cash,Individual,4,Electronics,793.36,3173.44,0,3173.44,4,5.0,10,4
+187,2023-11-01,Smartphone,North,Debit Card,Educational,5,Electronics,770.22,3851.1,0,3851.1,1,5.0,11,4
+346,2023-11-01,Headphones,East,PayPal,Corporate,3,Accessories,114.53,343.59,15,292.05,8,1.0,11,4
+345,2023-11-02,Tablet,East,Debit Card,Individual,4,Electronics,453.93,1815.72,5,1724.93,4,2.0,11,4
+258,2023-11-02,Mouse,Central,PayPal,Corporate,1,Accessories,48.28,48.28,0,48.28,3,4.0,11,4
+905,2023-11-02,Tablet,East,Cash,Individual,3,Electronics,540.7,1622.1,0,1622.1,8,,11,4
+181,2023-11-02,Keyboard,South,Debit Card,Individual,2,Accessories,82.62,165.24,20,132.19,10,2.0,11,4
+804,2023-11-03,Laptop,North,Bank Transfer,Corporate,1,Electronics,1124.27,1124.27,0,1124.27,1,3.0,11,4
+383,2023-11-03,Monitor,Central,Credit Card,Educational,3,Electronics,279.78,839.34,0,839.34,6,4.0,11,4
+422,2023-11-03,Smartphone,East,Cash,Individual,5,Electronics,792.01,3960.05,0,3960.05,4,2.0,11,4
+602,2023-11-03,Printer,Central,Debit Card,Corporate,2,Peripherals,229.75,459.5,0,459.5,8,4.0,11,4
+816,2023-11-04,Keyboard,East,Bank Transfer,Corporate,3,Accessories,73.14,219.42,5,208.45,2,5.0,11,4
+838,2023-11-04,Keyboard,South,Cash,Corporate,2,Accessories,77.73,155.46,0,155.46,5,2.0,11,4
+619,2023-11-04,Headphones,South,Credit Card,Educational,3,Accessories,111.2,333.6,0,333.6,10,,11,4
+686,2023-11-05,Mouse,South,PayPal,Corporate,4,Accessories,45.62,182.48,0,182.48,3,,11,4
+195,2023-11-05,Headphones,South,Credit Card,Individual,1,Accessories,110.88,110.88,0,110.88,10,1.0,11,4
+419,2023-11-05,Printer,North,Credit Card,Educational,4,Peripherals,265.87,1063.48,10,957.13,4,1.0,11,4
+516,2023-11-05,Tablet,West,Cash,Educational,4,Electronics,473.33,1893.32,0,1893.32,5,2.0,11,4
+190,2023-11-05,Mouse,East,Bank Transfer,Educational,5,Accessories,46.91,234.55,15,199.37,5,4.0,11,4
+881,2023-11-06,Keyboard,West,Cash,Individual,2,Accessories,74.89,149.78,15,127.31,3,,11,4
+669,2023-11-06,Keyboard,East,Credit Card,Individual,3,Accessories,72.33,216.99,10,195.29,10,3.0,11,4
+500,2023-11-06,Monitor,West,Credit Card,Corporate,4,Electronics,276.17,1104.68,20,883.74,5,,11,4
+437,2023-11-06,Printer,Central,Bank Transfer,Educational,2,Peripherals,263.01,526.02,0,526.02,3,5.0,11,4
+810,2023-11-06,Keyboard,East,PayPal,Corporate,3,Accessories,79.73,239.19,15,203.31,2,5.0,11,4
+443,2023-11-07,Laptop,Central,Credit Card,Educational,3,Electronics,1243.13,3729.39,20,2983.51,7,2.0,11,4
+38,2023-11-08,Laptop,North,Cash,Corporate,1,Electronics,1146.87,1146.87,0,1146.87,10,5.0,11,4
+767,2023-11-10,Keyboard,East,Cash,Corporate,2,Accessories,79.04,158.08,20,126.46,6,1.0,11,4
+440,2023-11-10,Tablet,East,Bank Transfer,Individual,2,Electronics,476.82,953.64,20,762.91,5,3.0,11,4
+43,2023-11-10,Smartphone,Central,Cash,Educational,2,Electronics,868.34,1736.68,0,1736.68,6,5.0,11,4
+323,2023-11-11,Monitor,Central,Cash,Educational,5,Electronics,307.79,1538.95,10,1385.06,2,2.0,11,4
+904,2023-11-11,Headphones,Central,PayPal,Corporate,1,Accessories,129.11,129.11,0,129.11,2,,11,4
+740,2023-11-11,Monitor,East,PayPal,Corporate,5,Electronics,274.81,1374.05,5,1305.35,9,3.0,11,4
+524,2023-11-12,Headphones,North,Cash,Individual,1,Accessories,109.08,109.08,15,92.72,5,2.0,11,4
+452,2023-11-13,Mouse,North,Debit Card,Educational,1,Accessories,53.96,53.96,20,43.17,6,3.0,11,4
+251,2023-11-14,Mouse,North,Credit Card,Individual,1,Accessories,48.59,48.59,0,48.59,5,1.0,11,4
+119,2023-11-15,Printer,North,Cash,Educational,3,Peripherals,258.87,776.61,0,776.61,7,3.0,11,4
+557,2023-11-15,Printer,Central,Cash,Individual,1,Peripherals,259.89,259.89,20,207.91,6,1.0,11,4
+759,2023-11-15,Laptop,Central,Debit Card,Educational,3,Electronics,1274.32,3822.96,20,3058.37,9,1.0,11,4
+90,2023-11-15,Smartphone,West,Debit Card,Individual,4,Electronics,752.71,3010.84,0,3010.84,2,1.0,11,4
+63,2023-11-16,Keyboard,West,Cash,Educational,1,Accessories,84.68,84.68,20,67.74,5,,11,4
+93,2023-11-17,Smartphone,West,PayPal,Individual,2,Electronics,818.42,1636.84,10,1473.16,9,5.0,11,4
+376,2023-11-18,Monitor,South,PayPal,Educational,1,Electronics,323.88,323.88,20,259.1,6,,11,4
+484,2023-11-18,Mouse,Central,Debit Card,Individual,4,Accessories,47.02,188.08,0,188.08,6,4.0,11,4
+81,2023-11-18,Headphones,East,Cash,Corporate,2,Accessories,119.69,239.38,0,239.38,4,4.0,11,4
+958,2023-11-20,Laptop,North,Debit Card,Educational,3,Electronics,1223.27,3669.81,0,3669.81,2,2.0,11,4
+925,2023-11-20,Laptop,North,Bank Transfer,Individual,2,Electronics,1142.68,2285.36,0,2285.36,1,2.0,11,4
+603,2023-11-20,Monitor,North,Cash,Educational,2,Electronics,288.9,577.8,10,520.02,1,4.0,11,4
+596,2023-11-20,Monitor,Central,PayPal,Educational,2,Electronics,275.1,550.2,0,550.2,6,,11,4
+131,2023-11-21,Monitor,South,Cash,Educational,3,Electronics,327.69,983.07,5,933.92,10,1.0,11,4
+403,2023-11-21,Tablet,South,Cash,Corporate,4,Electronics,508.84,2035.36,15,1730.06,5,2.0,11,4
+900,2023-11-21,Tablet,East,Cash,Educational,5,Electronics,489.6,2448.0,0,2448.0,8,5.0,11,4
+328,2023-11-22,Headphones,South,PayPal,Educational,1,Accessories,118.28,118.28,20,94.62,9,2.0,11,4
+31,2023-11-22,Keyboard,East,Cash,Individual,4,Accessories,75.68,302.72,20,242.18,8,2.0,11,4
+975,2023-11-22,Monitor,North,PayPal,Corporate,4,Electronics,280.31,1121.24,10,1009.12,3,5.0,11,4
+310,2023-11-22,Mouse,East,Cash,Individual,3,Accessories,49.19,147.57,0,147.57,5,5.0,11,4
+178,2023-11-23,Tablet,South,Bank Transfer,Educational,4,Electronics,455.56,1822.24,20,1457.79,5,,11,4
+939,2023-11-23,Mouse,North,Credit Card,Educational,2,Accessories,49.96,99.92,15,84.93,10,4.0,11,4
+205,2023-11-24,Monitor,East,PayPal,Individual,4,Electronics,302.8,1211.2,0,1211.2,1,4.0,11,4
+821,2023-11-25,Headphones,North,PayPal,Educational,3,Accessories,131.03,393.09,10,353.78,3,2.0,11,4
+428,2023-11-26,Monitor,North,Bank Transfer,Educational,1,Electronics,273.08,273.08,10,245.77,2,,11,4
+295,2023-11-26,Smartphone,North,Debit Card,Individual,1,Electronics,850.35,850.35,5,807.83,3,,11,4
+355,2023-11-26,Printer,East,Credit Card,Individual,5,Peripherals,272.34,1361.7,0,1361.7,6,4.0,11,4
+326,2023-11-27,Mouse,North,Bank Transfer,Educational,3,Accessories,50.31,150.93,20,120.74,2,2.0,11,4
+610,2023-11-27,Printer,South,Bank Transfer,Individual,4,Peripherals,274.78,1099.12,0,1099.12,6,2.0,11,4
+114,2023-11-27,Mouse,East,PayPal,Individual,5,Accessories,48.92,244.6,0,244.6,4,4.0,11,4
+960,2023-11-27,Headphones,West,Debit Card,Corporate,2,Accessories,118.31,236.62,0,236.62,10,2.0,11,4
+598,2023-11-27,Headphones,South,Cash,Corporate,1,Accessories,117.12,117.12,10,105.41,10,1.0,11,4
+160,2023-11-28,Monitor,South,PayPal,Corporate,4,Electronics,325.72,1302.88,0,1302.88,2,3.0,11,4
+134,2023-11-29,Keyboard,Central,Credit Card,Educational,1,Accessories,76.25,76.25,20,61.0,4,1.0,11,4
+819,2023-11-29,Monitor,East,Bank Transfer,Individual,5,Electronics,322.68,1613.4,0,1613.4,1,4.0,11,4
+118,2023-11-29,Mouse,West,Cash,Educational,5,Accessories,47.37,236.85,0,236.85,7,1.0,11,4
+894,2023-11-30,Keyboard,South,PayPal,Corporate,1,Accessories,80.78,80.78,15,68.66,7,1.0,11,4
+762,2023-11-30,Smartphone,East,PayPal,Educational,2,Electronics,877.2,1754.4,5,1666.68,2,,11,4
+193,2023-12-01,Laptop,South,Bank Transfer,Corporate,1,Electronics,1183.19,1183.19,20,946.55,1,5.0,12,4
+851,2023-12-02,Headphones,North,PayPal,Individual,4,Accessories,117.97,471.88,5,448.29,9,3.0,12,4
+513,2023-12-02,Headphones,East,Debit Card,Individual,2,Accessories,126.45,252.9,20,202.32,9,1.0,12,4
+830,2023-12-02,Printer,West,Cash,Individual,3,Peripherals,267.11,801.33,0,801.33,10,,12,4
+580,2023-12-02,Smartphone,West,Credit Card,Corporate,2,Electronics,823.97,1647.94,0,1647.94,10,,12,4
+600,2023-12-03,Mouse,South,Debit Card,Educational,2,Accessories,48.89,97.78,20,78.22,9,1.0,12,4
+641,2023-12-03,Mouse,East,Credit Card,Educational,2,Accessories,50.86,101.72,0,101.72,1,3.0,12,4
+572,2023-12-04,Tablet,Central,Bank Transfer,Educational,5,Electronics,482.35,2411.75,0,2411.75,6,,12,4
+983,2023-12-05,Monitor,West,Cash,Individual,2,Electronics,310.13,620.26,0,620.26,5,3.0,12,4
+127,2023-12-06,Smartphone,East,Cash,Corporate,5,Electronics,844.04,4220.2,20,3376.16,2,1.0,12,4
+42,2023-12-06,Headphones,Central,PayPal,Individual,1,Accessories,114.86,114.86,10,103.37,5,4.0,12,4
+304,2023-12-06,Mouse,North,Debit Card,Educational,2,Accessories,45.7,91.4,0,91.4,8,5.0,12,4
+704,2023-12-07,Printer,North,Cash,Individual,3,Peripherals,272.03,816.09,15,693.68,10,3.0,12,4
+61,2023-12-07,Tablet,North,Debit Card,Individual,2,Electronics,450.07,900.14,0,900.14,9,1.0,12,4
+874,2023-12-08,Laptop,South,Cash,Corporate,1,Electronics,1137.76,1137.76,15,967.1,9,2.0,12,4
+386,2023-12-08,Printer,West,PayPal,Corporate,3,Peripherals,266.75,800.25,10,720.22,3,5.0,12,4
+151,2023-12-09,Tablet,Central,Cash,Educational,3,Electronics,484.0,1452.0,15,1234.2,5,1.0,12,4
+626,2023-12-09,Smartphone,North,Debit Card,Individual,2,Electronics,859.66,1719.32,20,1375.46,6,1.0,12,4
+492,2023-12-09,Keyboard,East,Debit Card,Educational,2,Accessories,72.64,145.28,10,130.75,1,2.0,12,4
+895,2023-12-09,Monitor,South,Cash,Individual,4,Electronics,294.16,1176.64,20,941.31,2,5.0,12,4
+482,2023-12-10,Mouse,West,Bank Transfer,Educational,2,Accessories,50.64,101.28,5,96.22,6,2.0,12,4
+472,2023-12-10,Printer,Central,PayPal,Corporate,2,Peripherals,264.69,529.38,0,529.38,9,5.0,12,4
+435,2023-12-12,Monitor,North,Cash,Corporate,1,Electronics,304.32,304.32,0,304.32,7,4.0,12,4
+365,2023-12-13,Headphones,West,Bank Transfer,Educational,2,Accessories,130.52,261.04,15,221.88,3,,12,4
+349,2023-12-13,Printer,West,Debit Card,Individual,5,Peripherals,273.29,1366.45,0,1366.45,7,,12,4
+285,2023-12-13,Smartphone,Central,Bank Transfer,Educational,5,Electronics,786.83,3934.15,0,3934.15,4,4.0,12,4
+852,2023-12-13,Smartphone,North,Bank Transfer,Individual,5,Electronics,723.84,3619.2,10,3257.28,9,1.0,12,4
+712,2023-12-14,Smartphone,West,Credit Card,Individual,3,Electronics,774.09,2322.27,10,2090.04,7,1.0,12,4
+823,2023-12-14,Mouse,East,Cash,Individual,3,Accessories,45.98,137.94,0,137.94,2,3.0,12,4
+34,2023-12-15,Smartphone,North,Bank Transfer,Individual,3,Electronics,825.87,2477.61,0,2477.61,8,3.0,12,4
+64,2023-12-15,Laptop,South,Bank Transfer,Individual,3,Electronics,1230.56,3691.68,15,3137.93,3,4.0,12,4
+510,2023-12-17,Smartphone,South,Credit Card,Corporate,3,Electronics,812.06,2436.18,0,2436.18,3,1.0,12,4
+675,2023-12-17,Monitor,West,Cash,Individual,1,Electronics,310.54,310.54,0,310.54,4,5.0,12,4
+910,2023-12-17,Mouse,East,Bank Transfer,Corporate,4,Accessories,49.84,199.36,0,199.36,4,5.0,12,4
+844,2023-12-17,Headphones,Central,Debit Card,Corporate,3,Accessories,121.31,363.93,0,363.93,9,5.0,12,4
+7,2023-12-17,Keyboard,West,Bank Transfer,Individual,1,Accessories,85.44,85.44,10,76.9,9,,12,4
+613,2023-12-18,Monitor,East,Debit Card,Corporate,4,Electronics,289.62,1158.48,15,984.71,4,2.0,12,4
+846,2023-12-18,Keyboard,West,Credit Card,Individual,5,Accessories,72.07,360.35,10,324.32,1,3.0,12,4
+162,2023-12-18,Laptop,South,Bank Transfer,Educational,4,Electronics,1102.17,4408.68,20,3526.94,4,3.0,12,4
+26,2023-12-18,Mouse,East,Cash,Educational,3,Accessories,46.75,140.25,15,119.21,5,,12,4
+803,2023-12-18,Laptop,Central,PayPal,Individual,2,Electronics,1119.21,2238.42,0,2238.42,1,1.0,12,4
+754,2023-12-18,Smartphone,North,PayPal,Educational,5,Electronics,802.61,4013.05,0,4013.05,4,4.0,12,4
+644,2023-12-19,Laptop,Central,Credit Card,Individual,2,Electronics,1093.69,2187.38,0,2187.38,5,,12,4
+110,2023-12-19,Headphones,Central,Credit Card,Educational,3,Accessories,114.75,344.25,15,292.61,1,5.0,12,4
+893,2023-12-19,Laptop,South,Cash,Corporate,3,Electronics,1179.8,3539.4,0,3539.4,2,2.0,12,4
+230,2023-12-20,Keyboard,South,Bank Transfer,Individual,1,Accessories,82.54,82.54,15,70.16,1,4.0,12,4
+504,2023-12-20,Printer,East,Credit Card,Individual,2,Peripherals,267.34,534.68,0,534.68,10,2.0,12,4
+3,2023-12-20,Keyboard,North,Debit Card,Educational,4,Accessories,84.43,337.72,0,337.72,10,3.0,12,4
+342,2023-12-21,Monitor,West,PayPal,Individual,4,Electronics,288.51,1154.04,15,980.93,4,4.0,12,4
+207,2023-12-21,Printer,Central,Cash,Corporate,4,Peripherals,242.2,968.8,10,871.92,4,1.0,12,4
+768,2023-12-22,Printer,Central,Cash,Educational,2,Peripherals,257.2,514.4,0,514.4,10,5.0,12,4
+836,2023-12-22,Monitor,East,Credit Card,Individual,5,Electronics,301.11,1505.55,0,1505.55,1,2.0,12,4
+179,2023-12-22,Laptop,North,Credit Card,Corporate,2,Electronics,1081.65,2163.3,10,1946.97,10,,12,4
+916,2023-12-22,Mouse,Central,PayPal,Educational,1,Accessories,49.72,49.72,0,49.72,3,4.0,12,4
+520,2023-12-22,Smartphone,North,Cash,Corporate,2,Electronics,729.59,1459.18,20,1167.34,10,1.0,12,4
+156,2023-12-24,Smartphone,North,Cash,Corporate,5,Electronics,853.53,4267.65,0,4267.65,1,5.0,12,4
+786,2023-12-24,Laptop,South,Cash,Corporate,2,Electronics,1223.66,2447.32,10,2202.59,9,4.0,12,4
+867,2023-12-24,Keyboard,West,Bank Transfer,Individual,3,Accessories,79.6,238.8,20,191.04,2,5.0,12,4
+974,2023-12-24,Tablet,West,PayPal,Individual,1,Electronics,458.78,458.78,0,458.78,7,2.0,12,4
+77,2023-12-24,Monitor,Central,Debit Card,Corporate,4,Electronics,298.08,1192.32,5,1132.7,4,3.0,12,4
+780,2023-12-25,Tablet,Central,PayPal,Corporate,4,Electronics,485.31,1941.24,0,1941.24,7,2.0,12,4
+876,2023-12-25,Tablet,South,Cash,Individual,4,Electronics,533.06,2132.24,5,2025.63,5,1.0,12,4
+880,2023-12-25,Keyboard,Central,Credit Card,Individual,5,Accessories,87.65,438.25,20,350.6,7,2.0,12,4
+798,2023-12-25,Headphones,Central,Bank Transfer,Corporate,5,Accessories,120.56,602.8,5,572.66,10,3.0,12,4
+672,2023-12-26,Mouse,South,Debit Card,Individual,3,Accessories,52.67,158.01,0,158.01,2,1.0,12,4
+980,2023-12-26,Mouse,West,Cash,Educational,2,Accessories,53.12,106.24,0,106.24,8,1.0,12,4
+616,2023-12-26,Tablet,West,Credit Card,Educational,1,Electronics,517.25,517.25,20,413.8,2,2.0,12,4
+463,2023-12-26,Mouse,West,Credit Card,Educational,4,Accessories,52.38,209.52,0,209.52,4,3.0,12,4
+253,2023-12-27,Monitor,South,Credit Card,Corporate,5,Electronics,319.24,1596.2,20,1276.96,7,1.0,12,4
+464,2023-12-27,Laptop,North,Credit Card,Educational,5,Electronics,1166.51,5832.55,5,5540.92,2,5.0,12,4
+216,2023-12-27,Keyboard,East,Debit Card,Individual,1,Accessories,77.23,77.23,5,73.37,8,,12,4
+633,2023-12-27,Keyboard,East,PayPal,Educational,1,Accessories,79.09,79.09,0,79.09,5,3.0,12,4
+426,2023-12-28,Keyboard,Central,Bank Transfer,Educational,5,Accessories,75.38,376.9,5,358.05,1,1.0,12,4
+348,2023-12-28,Monitor,West,Cash,Corporate,4,Electronics,328.7,1314.8,5,1249.06,1,5.0,12,4
+199,2023-12-29,Keyboard,South,Debit Card,Individual,2,Accessories,79.89,159.78,20,127.82,6,,12,4
+314,2023-12-29,Headphones,West,Cash,Corporate,2,Accessories,113.55,227.1,0,227.1,7,5.0,12,4
+590,2023-12-29,Keyboard,East,Bank Transfer,Corporate,5,Accessories,72.21,361.05,0,361.05,4,2.0,12,4
+706,2023-12-29,Keyboard,Central,Cash,Corporate,3,Accessories,87.27,261.81,15,222.54,4,2.0,12,4
+266,2023-12-29,Smartphone,East,Cash,Educational,1,Electronics,849.34,849.34,5,806.87,1,1.0,12,4
+107,2023-12-29,Mouse,South,Debit Card,Individual,3,Accessories,52.25,156.75,0,156.75,6,,12,4
+189,2023-12-31,Headphones,South,Debit Card,Individual,5,Accessories,114.52,572.6,15,486.71,5,3.0,12,4
+878,2023-12-31,Smartphone,South,PayPal,Educational,3,Electronics,783.89,2351.67,5,2234.09,6,3.0,12,4
+691,2023-12-31,Smartphone,South,Debit Card,Educational,5,Electronics,879.64,4398.2,0,4398.2,1,,12,4
