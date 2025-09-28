@@ -1,9 +1,0 @@
-product_id,product_name,category,brand,price,stock_quantity,warranty_months,release_year
-P001,Laptop,Computers,TechPro,1200,50,24,2022
-P002,Smartphone,Phones,MobiMax,800,100,12,2022
-P003,Tablet,Computers,TechPro,500,75,12,2021
-P004,Monitor,Accessories,DisplayTech,300,60,36,2022
-P005,Keyboard,Accessories,KeyMaster,80,120,12,2020
-P006,Mouse,Accessories,ClickPro,50,150,12,2021
-P007,Headphones,Audio,SoundWave,120,90,6,2022
-P008,Printer,Peripherals,PrintMaster,250,40,12,2021
